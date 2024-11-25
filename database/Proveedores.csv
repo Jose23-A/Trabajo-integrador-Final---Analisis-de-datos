@@ -1,0 +1,6 @@
+ID_Proveedor,Nombre_Proveedor,Costo_Estimado,Telefono,Mail,Direccion,Tipo_Proveedor,CP,Fecha_Alta,Ciudad,Provincia,Pais,Activo
+1,FastDelivery,10.0,+1-348-6782,contactofastdelivery@empresa.com,"Calle 54, N° 50",Transporte,1950,2019-07-16,Ciudad B,Provincia Z,Argentina,1
+2,ExpressShip,12.0,+1-347-4256,contactoexpressship@empresa.com,"Calle 40, N° 34",Almacenamiento,4244,2021-08-15,Ciudad A,Provincia Z,Argentina,1
+3,GlobalCourier,15.0,+1-653-8391,contactoglobalcourier@empresa.com,"Calle 5, N° 13",Almacenamiento,5781,2017-10-03,Ciudad D,Provincia X,Argentina,1
+4,QuickSend,8.0,+1-408-8749,contactoquicksend@empresa.com,"Calle 96, N° 40",Logística,3486,2024-05-18,Ciudad D,Provincia Y,Argentina,0
+5,ShipPro,11.0,+1-498-5259,contactoshippro@empresa.com,"Calle 4, N° 30",Logística,5490,2020-08-22,Ciudad B,Provincia Y,Argentina,1

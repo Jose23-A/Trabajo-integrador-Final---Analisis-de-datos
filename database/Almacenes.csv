@@ -1,0 +1,6 @@
+ID_Almacen,Nombre_Almacen,Ubicacion,Telefono,Mail,CP,Capacidad_Max,Activo,Ciudad,Provincia,Pais
+1,Centro Norte,Springfield,+1-230-2646,contactocentronorte@empresa.com,4082,4168,0,Springfield,Provincia Y,Argentina
+2,Centro Sur,Capital City,+1-282-5438,contactocentrosur@empresa.com,9524,607,0,Capital City,Provincia Y,Argentina
+3,Centro Oeste,Gotham City,+1-825-2171,contactocentrooeste@empresa.com,7399,2641,1,Gotham City,Provincia Z,Argentina
+4,Centro Este,Scranton,+1-762-1910,contactocentroeste@empresa.com,2425,1828,1,Scranton,Provincia Z,Argentina
+5,Centro Central,San Francisco,+1-274-6049,contactocentrocentral@empresa.com,4532,1788,0,San Francisco,Provincia Z,Argentina

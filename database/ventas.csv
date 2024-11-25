@@ -1,0 +1,1001 @@
+Id_Venta,FechaVenta,CodigoProducto,Producto,Cantidad,PrecioVenta,CodigoCliente,Cliente,CodigoTienda,Tienda,ID_Entrega
+1,2024-08-08,3,Refrigerador Doble Puerta,2,1032.66,8,Stark Industries,3,Outlet Norte,2
+2,2024-02-14,9,Smartphone,1,914.16,4,Umbrella Corp,6,MegaMarket,9
+3,2024-10-05,3,Refrigerador Doble Puerta,2,729.91,4,Umbrella Corp,1,ElectroShop,7
+4,2024-04-19,9,Smartphone,3,1621.51,4,Umbrella Corp,3,Outlet Norte,10
+5,2024-08-06,1,"Televisor LED 55""",4,1376.11,3,Initech,1,ElectroShop,10
+6,2024-06-05,1,"Televisor LED 55""",5,1474.17,4,Umbrella Corp,7,TecnoStore,8
+7,2024-11-26,3,Refrigerador Doble Puerta,3,444.87,4,Umbrella Corp,3,Outlet Norte,5
+8,2024-10-01,5,Aspiradora Sin Bolsa,2,159.44,2,Globex Corporation,8,Digital Plaza,3
+9,2024-04-24,2,Lavadora 8kg,2,1866.82,1,ACME Corp,1,ElectroShop,6
+10,2024-06-30,7,"Tablet 10""",2,790.69,3,Initech,1,ElectroShop,9
+11,2024-04-11,3,Refrigerador Doble Puerta,2,1308.62,5,Weyland-Yutani,6,MegaMarket,6
+12,2024-06-25,7,"Tablet 10""",5,1313.9,3,Initech,4,ElectroShop Sur,4
+13,2024-09-09,6,Computadora Portátil,3,1057.93,5,Weyland-Yutani,2,Tienda Central,5
+14,2024-05-04,8,Auriculares Bluetooth,5,1179.54,7,Tyrell Corporation,7,TecnoStore,4
+15,2024-01-25,6,Computadora Portátil,5,1754.2,8,Stark Industries,2,Tienda Central,8
+16,2024-08-02,4,Microondas 20L,4,1049.03,1,ACME Corp,8,Digital Plaza,10
+17,2024-06-19,10,Horno Eléctrico,1,1242.93,8,Stark Industries,1,ElectroShop,4
+18,2024-07-01,4,Microondas 20L,5,1617.66,6,Cyberdyne Systems,7,TecnoStore,4
+19,2024-09-21,4,Microondas 20L,3,1723.09,8,Stark Industries,7,TecnoStore,10
+20,2024-05-02,5,Aspiradora Sin Bolsa,5,313.96,6,Cyberdyne Systems,4,ElectroShop Sur,6
+21,2024-10-03,6,Computadora Portátil,2,144.41,7,Tyrell Corporation,2,Tienda Central,9
+22,2024-10-05,7,"Tablet 10""",5,1585.54,5,Weyland-Yutani,1,ElectroShop,3
+23,2024-06-16,8,Auriculares Bluetooth,3,742.85,2,Globex Corporation,5,Tienda Premium,1
+24,2024-11-23,1,"Televisor LED 55""",4,1360.0,8,Stark Industries,4,ElectroShop Sur,8
+25,2024-01-27,6,Computadora Portátil,4,1284.17,5,Weyland-Yutani,1,ElectroShop,10
+26,2024-03-18,5,Aspiradora Sin Bolsa,1,884.7,8,Stark Industries,4,ElectroShop Sur,1
+27,2024-01-17,7,"Tablet 10""",2,320.9,4,Umbrella Corp,8,Digital Plaza,2
+28,2024-01-20,5,Aspiradora Sin Bolsa,1,1952.37,2,Globex Corporation,2,Tienda Central,2
+29,2024-04-21,1,"Televisor LED 55""",5,477.96,8,Stark Industries,5,Tienda Premium,3
+30,2024-05-27,2,Lavadora 8kg,2,868.13,8,Stark Industries,3,Outlet Norte,10
+31,2024-06-21,10,Horno Eléctrico,1,1665.63,6,Cyberdyne Systems,4,ElectroShop Sur,5
+32,2024-08-29,7,"Tablet 10""",2,1338.63,8,Stark Industries,3,Outlet Norte,3
+33,2024-02-16,8,Auriculares Bluetooth,1,665.98,4,Umbrella Corp,4,ElectroShop Sur,5
+34,2024-05-29,10,Horno Eléctrico,4,1594.08,8,Stark Industries,7,TecnoStore,7
+35,2024-07-21,1,"Televisor LED 55""",5,1156.91,1,ACME Corp,2,Tienda Central,9
+36,2024-11-15,10,Horno Eléctrico,5,1381.78,7,Tyrell Corporation,7,TecnoStore,5
+37,2024-02-03,8,Auriculares Bluetooth,5,797.14,2,Globex Corporation,1,ElectroShop,2
+38,2024-06-15,3,Refrigerador Doble Puerta,1,631.27,3,Initech,1,ElectroShop,7
+39,2024-06-14,4,Microondas 20L,4,1560.25,6,Cyberdyne Systems,8,Digital Plaza,9
+40,2024-10-26,7,"Tablet 10""",1,1665.5,2,Globex Corporation,5,Tienda Premium,10
+41,2024-01-04,7,"Tablet 10""",3,1331.64,6,Cyberdyne Systems,5,Tienda Premium,3
+42,2024-06-06,2,Lavadora 8kg,3,340.42,3,Initech,4,ElectroShop Sur,5
+43,2024-06-30,9,Smartphone,1,1834.85,8,Stark Industries,2,Tienda Central,1
+44,2024-01-11,8,Auriculares Bluetooth,4,226.23,3,Initech,2,Tienda Central,2
+45,2024-01-22,5,Aspiradora Sin Bolsa,2,979.31,1,ACME Corp,8,Digital Plaza,3
+46,2024-05-15,3,Refrigerador Doble Puerta,1,1181.63,1,ACME Corp,8,Digital Plaza,10
+47,2024-11-06,5,Aspiradora Sin Bolsa,1,666.57,4,Umbrella Corp,6,MegaMarket,3
+48,2024-06-01,3,Refrigerador Doble Puerta,3,1070.89,5,Weyland-Yutani,7,TecnoStore,5
+49,2024-11-01,2,Lavadora 8kg,1,430.23,6,Cyberdyne Systems,3,Outlet Norte,7
+50,2024-03-23,8,Auriculares Bluetooth,2,589.01,4,Umbrella Corp,4,ElectroShop Sur,5
+51,2024-09-29,2,Lavadora 8kg,4,1118.25,6,Cyberdyne Systems,5,Tienda Premium,3
+52,2024-02-05,6,Computadora Portátil,4,697.98,2,Globex Corporation,5,Tienda Premium,10
+53,2024-01-14,10,Horno Eléctrico,5,1880.45,2,Globex Corporation,6,MegaMarket,6
+54,2024-02-13,10,Horno Eléctrico,4,702.32,3,Initech,3,Outlet Norte,4
+55,2024-11-12,8,Auriculares Bluetooth,5,390.16,7,Tyrell Corporation,7,TecnoStore,8
+56,2024-06-11,3,Refrigerador Doble Puerta,3,948.54,6,Cyberdyne Systems,1,ElectroShop,4
+57,2024-01-03,1,"Televisor LED 55""",3,1493.33,4,Umbrella Corp,5,Tienda Premium,2
+58,2024-01-29,8,Auriculares Bluetooth,5,765.28,3,Initech,1,ElectroShop,5
+59,2024-12-22,7,"Tablet 10""",4,1518.19,3,Initech,2,Tienda Central,2
+60,2024-01-10,10,Horno Eléctrico,3,121.57,1,ACME Corp,8,Digital Plaza,5
+61,2024-03-19,8,Auriculares Bluetooth,5,504.35,1,ACME Corp,4,ElectroShop Sur,1
+62,2024-03-29,10,Horno Eléctrico,2,1625.57,1,ACME Corp,2,Tienda Central,5
+63,2024-04-22,2,Lavadora 8kg,3,1348.82,6,Cyberdyne Systems,6,MegaMarket,4
+64,2024-07-07,9,Smartphone,4,920.45,3,Initech,3,Outlet Norte,1
+65,2024-06-14,7,"Tablet 10""",3,1257.14,5,Weyland-Yutani,2,Tienda Central,10
+66,2024-04-22,10,Horno Eléctrico,3,1900.78,1,ACME Corp,3,Outlet Norte,7
+67,2024-08-03,9,Smartphone,3,809.27,7,Tyrell Corporation,2,Tienda Central,5
+68,2024-01-21,1,"Televisor LED 55""",2,438.96,8,Stark Industries,7,TecnoStore,9
+69,2024-12-02,9,Smartphone,5,1350.12,6,Cyberdyne Systems,2,Tienda Central,8
+70,2024-10-10,8,Auriculares Bluetooth,4,1490.61,4,Umbrella Corp,3,Outlet Norte,8
+71,2024-01-30,6,Computadora Portátil,2,795.45,1,ACME Corp,7,TecnoStore,5
+72,2024-02-16,6,Computadora Portátil,3,687.15,1,ACME Corp,3,Outlet Norte,8
+73,2024-02-16,7,"Tablet 10""",3,1013.11,7,Tyrell Corporation,8,Digital Plaza,7
+74,2024-11-09,2,Lavadora 8kg,4,1742.32,2,Globex Corporation,3,Outlet Norte,3
+75,2024-05-06,1,"Televisor LED 55""",2,1959.24,5,Weyland-Yutani,5,Tienda Premium,1
+76,2024-01-04,8,Auriculares Bluetooth,1,1058.69,1,ACME Corp,5,Tienda Premium,6
+77,2024-08-14,1,"Televisor LED 55""",3,1768.81,4,Umbrella Corp,6,MegaMarket,5
+78,2024-09-02,1,"Televisor LED 55""",3,1433.15,4,Umbrella Corp,3,Outlet Norte,7
+79,2024-01-29,10,Horno Eléctrico,4,1619.49,3,Initech,7,TecnoStore,1
+80,2024-02-07,9,Smartphone,5,1951.73,6,Cyberdyne Systems,6,MegaMarket,9
+81,2024-12-26,4,Microondas 20L,1,1004.92,2,Globex Corporation,5,Tienda Premium,1
+82,2024-09-09,7,"Tablet 10""",2,1205.42,8,Stark Industries,3,Outlet Norte,2
+83,2024-04-03,9,Smartphone,4,1499.61,4,Umbrella Corp,5,Tienda Premium,10
+84,2024-04-07,2,Lavadora 8kg,5,1417.54,7,Tyrell Corporation,1,ElectroShop,1
+85,2024-09-23,4,Microondas 20L,4,300.25,5,Weyland-Yutani,2,Tienda Central,1
+86,2024-04-23,5,Aspiradora Sin Bolsa,1,1978.38,7,Tyrell Corporation,7,TecnoStore,3
+87,2024-05-25,8,Auriculares Bluetooth,4,216.26,8,Stark Industries,4,ElectroShop Sur,8
+88,2024-05-15,3,Refrigerador Doble Puerta,3,1336.11,5,Weyland-Yutani,3,Outlet Norte,5
+89,2024-04-20,5,Aspiradora Sin Bolsa,2,1176.37,4,Umbrella Corp,2,Tienda Central,8
+90,2024-06-21,2,Lavadora 8kg,1,847.2,3,Initech,5,Tienda Premium,5
+91,2024-08-08,7,"Tablet 10""",5,1687.02,4,Umbrella Corp,2,Tienda Central,9
+92,2024-08-01,5,Aspiradora Sin Bolsa,3,1681.64,6,Cyberdyne Systems,1,ElectroShop,1
+93,2024-08-02,4,Microondas 20L,2,1540.85,8,Stark Industries,6,MegaMarket,8
+94,2024-03-30,9,Smartphone,1,1222.43,3,Initech,8,Digital Plaza,9
+95,2024-12-29,1,"Televisor LED 55""",3,196.84,1,ACME Corp,7,TecnoStore,6
+96,2024-11-08,1,"Televisor LED 55""",4,347.48,1,ACME Corp,4,ElectroShop Sur,3
+97,2024-06-16,5,Aspiradora Sin Bolsa,2,800.49,8,Stark Industries,4,ElectroShop Sur,10
+98,2024-01-08,5,Aspiradora Sin Bolsa,1,1884.24,4,Umbrella Corp,4,ElectroShop Sur,6
+99,2024-10-19,9,Smartphone,1,1520.08,7,Tyrell Corporation,6,MegaMarket,9
+100,2024-08-21,2,Lavadora 8kg,4,1749.03,1,ACME Corp,7,TecnoStore,5
+101,2024-05-16,10,Horno Eléctrico,2,509.46,4,Umbrella Corp,4,ElectroShop Sur,7
+102,2024-06-30,9,Smartphone,1,846.34,1,ACME Corp,5,Tienda Premium,2
+103,2024-03-03,2,Lavadora 8kg,2,141.2,7,Tyrell Corporation,5,Tienda Premium,3
+104,2024-10-03,9,Smartphone,4,946.46,6,Cyberdyne Systems,6,MegaMarket,7
+105,2024-03-26,5,Aspiradora Sin Bolsa,5,373.7,3,Initech,2,Tienda Central,6
+106,2024-01-13,4,Microondas 20L,1,1254.9,7,Tyrell Corporation,4,ElectroShop Sur,9
+107,2024-09-08,4,Microondas 20L,1,1621.88,7,Tyrell Corporation,7,TecnoStore,4
+108,2024-11-30,2,Lavadora 8kg,1,584.3,1,ACME Corp,1,ElectroShop,8
+109,2024-02-01,8,Auriculares Bluetooth,5,1621.84,4,Umbrella Corp,7,TecnoStore,8
+110,2024-09-26,9,Smartphone,5,911.09,1,ACME Corp,3,Outlet Norte,10
+111,2024-01-15,5,Aspiradora Sin Bolsa,5,1654.4,6,Cyberdyne Systems,5,Tienda Premium,2
+112,2024-05-09,2,Lavadora 8kg,3,1046.84,5,Weyland-Yutani,5,Tienda Premium,3
+113,2024-08-22,2,Lavadora 8kg,2,1934.45,1,ACME Corp,4,ElectroShop Sur,7
+114,2024-05-12,7,"Tablet 10""",2,1721.04,1,ACME Corp,3,Outlet Norte,5
+115,2024-09-19,6,Computadora Portátil,5,791.48,3,Initech,1,ElectroShop,10
+116,2024-06-19,9,Smartphone,5,650.77,5,Weyland-Yutani,2,Tienda Central,5
+117,2024-11-22,2,Lavadora 8kg,2,1833.58,3,Initech,3,Outlet Norte,7
+118,2024-12-26,5,Aspiradora Sin Bolsa,4,233.65,3,Initech,8,Digital Plaza,6
+119,2024-12-25,10,Horno Eléctrico,1,1016.03,8,Stark Industries,1,ElectroShop,9
+120,2024-11-14,5,Aspiradora Sin Bolsa,1,1595.06,2,Globex Corporation,6,MegaMarket,8
+121,2024-07-29,7,"Tablet 10""",4,1918.17,1,ACME Corp,7,TecnoStore,8
+122,2024-07-18,3,Refrigerador Doble Puerta,2,1946.32,3,Initech,7,TecnoStore,6
+123,2024-06-01,3,Refrigerador Doble Puerta,3,806.05,6,Cyberdyne Systems,2,Tienda Central,4
+124,2024-06-01,6,Computadora Portátil,5,942.65,2,Globex Corporation,4,ElectroShop Sur,6
+125,2024-02-27,4,Microondas 20L,4,668.64,5,Weyland-Yutani,8,Digital Plaza,5
+126,2024-08-15,2,Lavadora 8kg,2,841.99,5,Weyland-Yutani,5,Tienda Premium,3
+127,2024-03-10,5,Aspiradora Sin Bolsa,2,897.06,4,Umbrella Corp,7,TecnoStore,2
+128,2024-08-08,5,Aspiradora Sin Bolsa,5,287.8,6,Cyberdyne Systems,5,Tienda Premium,4
+129,2024-05-26,3,Refrigerador Doble Puerta,2,1410.82,6,Cyberdyne Systems,6,MegaMarket,2
+130,2024-02-12,1,"Televisor LED 55""",2,1839.35,5,Weyland-Yutani,3,Outlet Norte,6
+131,2024-08-10,8,Auriculares Bluetooth,4,1345.05,7,Tyrell Corporation,8,Digital Plaza,5
+132,2024-07-19,9,Smartphone,2,1171.65,6,Cyberdyne Systems,3,Outlet Norte,9
+133,2024-11-18,7,"Tablet 10""",1,1114.78,8,Stark Industries,8,Digital Plaza,4
+134,2024-11-28,10,Horno Eléctrico,2,1360.57,1,ACME Corp,2,Tienda Central,6
+135,2024-08-17,1,"Televisor LED 55""",3,1086.4,2,Globex Corporation,6,MegaMarket,6
+136,2024-11-21,3,Refrigerador Doble Puerta,1,548.16,3,Initech,7,TecnoStore,10
+137,2024-11-22,7,"Tablet 10""",1,144.18,3,Initech,5,Tienda Premium,1
+138,2024-02-15,2,Lavadora 8kg,5,850.57,8,Stark Industries,2,Tienda Central,10
+139,2024-03-16,10,Horno Eléctrico,3,1997.52,6,Cyberdyne Systems,6,MegaMarket,1
+140,2024-06-17,1,"Televisor LED 55""",4,745.09,3,Initech,8,Digital Plaza,10
+141,2024-04-10,7,"Tablet 10""",5,1999.03,6,Cyberdyne Systems,8,Digital Plaza,4
+142,2024-05-06,8,Auriculares Bluetooth,5,317.09,5,Weyland-Yutani,4,ElectroShop Sur,3
+143,2024-10-02,8,Auriculares Bluetooth,2,1200.25,1,ACME Corp,7,TecnoStore,2
+144,2024-03-15,2,Lavadora 8kg,5,1126.05,4,Umbrella Corp,1,ElectroShop,9
+145,2024-11-04,7,"Tablet 10""",4,1373.04,3,Initech,2,Tienda Central,4
+146,2024-11-09,8,Auriculares Bluetooth,2,1989.02,8,Stark Industries,3,Outlet Norte,10
+147,2024-11-18,2,Lavadora 8kg,5,291.5,3,Initech,7,TecnoStore,7
+148,2024-02-19,5,Aspiradora Sin Bolsa,1,199.98,7,Tyrell Corporation,6,MegaMarket,1
+149,2024-12-05,10,Horno Eléctrico,3,1209.89,3,Initech,1,ElectroShop,4
+150,2024-05-06,10,Horno Eléctrico,4,198.23,4,Umbrella Corp,3,Outlet Norte,6
+151,2024-09-01,2,Lavadora 8kg,3,1347.6,2,Globex Corporation,2,Tienda Central,8
+152,2024-05-30,5,Aspiradora Sin Bolsa,3,652.15,7,Tyrell Corporation,8,Digital Plaza,8
+153,2024-04-07,6,Computadora Portátil,5,1731.69,5,Weyland-Yutani,8,Digital Plaza,3
+154,2024-04-22,10,Horno Eléctrico,4,850.36,8,Stark Industries,8,Digital Plaza,1
+155,2024-07-20,4,Microondas 20L,2,854.79,3,Initech,6,MegaMarket,8
+156,2024-03-16,3,Refrigerador Doble Puerta,4,648.37,1,ACME Corp,5,Tienda Premium,6
+157,2024-10-14,3,Refrigerador Doble Puerta,3,188.58,6,Cyberdyne Systems,5,Tienda Premium,7
+158,2024-05-03,8,Auriculares Bluetooth,3,295.09,8,Stark Industries,1,ElectroShop,9
+159,2024-06-15,5,Aspiradora Sin Bolsa,4,1309.04,7,Tyrell Corporation,5,Tienda Premium,4
+160,2024-04-11,4,Microondas 20L,3,520.69,8,Stark Industries,5,Tienda Premium,6
+161,2024-10-19,3,Refrigerador Doble Puerta,5,1805.79,5,Weyland-Yutani,4,ElectroShop Sur,6
+162,2024-07-26,6,Computadora Portátil,3,1093.58,3,Initech,6,MegaMarket,5
+163,2024-11-04,2,Lavadora 8kg,3,412.07,3,Initech,4,ElectroShop Sur,7
+164,2024-06-20,1,"Televisor LED 55""",1,1131.86,4,Umbrella Corp,8,Digital Plaza,1
+165,2024-12-11,3,Refrigerador Doble Puerta,3,1429.99,6,Cyberdyne Systems,3,Outlet Norte,9
+166,2024-10-03,2,Lavadora 8kg,3,114.66,2,Globex Corporation,2,Tienda Central,6
+167,2024-08-26,7,"Tablet 10""",3,926.12,6,Cyberdyne Systems,1,ElectroShop,5
+168,2024-01-04,8,Auriculares Bluetooth,4,559.51,3,Initech,6,MegaMarket,10
+169,2024-08-14,1,"Televisor LED 55""",4,693.84,8,Stark Industries,8,Digital Plaza,2
+170,2024-02-08,2,Lavadora 8kg,5,1122.26,5,Weyland-Yutani,2,Tienda Central,8
+171,2024-08-19,2,Lavadora 8kg,5,493.81,4,Umbrella Corp,3,Outlet Norte,2
+172,2024-12-16,1,"Televisor LED 55""",3,1360.86,8,Stark Industries,4,ElectroShop Sur,9
+173,2024-01-06,7,"Tablet 10""",5,1109.4,3,Initech,5,Tienda Premium,8
+174,2024-04-12,3,Refrigerador Doble Puerta,1,428.31,5,Weyland-Yutani,6,MegaMarket,6
+175,2024-09-12,10,Horno Eléctrico,3,1905.9,2,Globex Corporation,5,Tienda Premium,6
+176,2024-11-17,8,Auriculares Bluetooth,3,1498.95,4,Umbrella Corp,8,Digital Plaza,6
+177,2024-11-18,9,Smartphone,2,1200.86,3,Initech,1,ElectroShop,6
+178,2024-08-13,5,Aspiradora Sin Bolsa,5,852.57,3,Initech,2,Tienda Central,8
+179,2024-03-18,3,Refrigerador Doble Puerta,2,648.23,3,Initech,7,TecnoStore,1
+180,2024-10-19,1,"Televisor LED 55""",1,1280.9,2,Globex Corporation,4,ElectroShop Sur,1
+181,2024-08-10,2,Lavadora 8kg,1,142.1,8,Stark Industries,7,TecnoStore,3
+182,2024-02-05,7,"Tablet 10""",4,635.49,7,Tyrell Corporation,2,Tienda Central,9
+183,2024-06-02,8,Auriculares Bluetooth,1,1292.02,6,Cyberdyne Systems,6,MegaMarket,3
+184,2024-02-18,6,Computadora Portátil,2,795.66,5,Weyland-Yutani,6,MegaMarket,3
+185,2024-04-24,4,Microondas 20L,1,912.72,7,Tyrell Corporation,2,Tienda Central,6
+186,2024-12-11,6,Computadora Portátil,4,1220.97,8,Stark Industries,5,Tienda Premium,3
+187,2024-11-03,9,Smartphone,3,193.72,5,Weyland-Yutani,5,Tienda Premium,6
+188,2024-02-12,9,Smartphone,3,1728.2,7,Tyrell Corporation,3,Outlet Norte,5
+189,2024-09-03,6,Computadora Portátil,2,1500.66,5,Weyland-Yutani,3,Outlet Norte,8
+190,2024-09-06,1,"Televisor LED 55""",5,134.9,7,Tyrell Corporation,4,ElectroShop Sur,7
+191,2024-01-02,1,"Televisor LED 55""",5,916.79,5,Weyland-Yutani,7,TecnoStore,2
+192,2024-05-28,5,Aspiradora Sin Bolsa,1,1879.43,4,Umbrella Corp,7,TecnoStore,10
+193,2024-06-04,7,"Tablet 10""",4,555.97,1,ACME Corp,7,TecnoStore,10
+194,2024-07-26,7,"Tablet 10""",2,1066.69,4,Umbrella Corp,6,MegaMarket,8
+195,2024-06-16,3,Refrigerador Doble Puerta,3,299.78,8,Stark Industries,7,TecnoStore,5
+196,2024-02-29,5,Aspiradora Sin Bolsa,4,1649.47,3,Initech,2,Tienda Central,10
+197,2024-08-31,5,Aspiradora Sin Bolsa,4,1594.99,2,Globex Corporation,5,Tienda Premium,8
+198,2024-11-13,3,Refrigerador Doble Puerta,1,434.61,6,Cyberdyne Systems,7,TecnoStore,6
+199,2024-12-17,1,"Televisor LED 55""",1,762.46,4,Umbrella Corp,5,Tienda Premium,2
+200,2024-11-03,8,Auriculares Bluetooth,3,641.11,1,ACME Corp,1,ElectroShop,6
+201,2024-02-04,4,Microondas 20L,5,1304.8,5,Weyland-Yutani,2,Tienda Central,6
+202,2024-11-17,10,Horno Eléctrico,5,1320.59,2,Globex Corporation,2,Tienda Central,1
+203,2024-12-09,2,Lavadora 8kg,4,445.69,5,Weyland-Yutani,7,TecnoStore,2
+204,2024-01-14,2,Lavadora 8kg,3,1437.57,4,Umbrella Corp,4,ElectroShop Sur,4
+205,2024-08-03,3,Refrigerador Doble Puerta,3,1070.18,5,Weyland-Yutani,1,ElectroShop,6
+206,2024-12-21,10,Horno Eléctrico,4,1554.67,5,Weyland-Yutani,8,Digital Plaza,6
+207,2024-11-23,5,Aspiradora Sin Bolsa,5,1804.65,2,Globex Corporation,1,ElectroShop,3
+208,2024-06-22,7,"Tablet 10""",1,1393.93,6,Cyberdyne Systems,5,Tienda Premium,3
+209,2024-09-29,9,Smartphone,3,864.86,1,ACME Corp,5,Tienda Premium,2
+210,2024-02-16,7,"Tablet 10""",1,404.95,2,Globex Corporation,4,ElectroShop Sur,9
+211,2024-01-24,3,Refrigerador Doble Puerta,2,540.26,6,Cyberdyne Systems,5,Tienda Premium,1
+212,2024-08-09,2,Lavadora 8kg,3,977.51,4,Umbrella Corp,5,Tienda Premium,1
+213,2024-11-06,2,Lavadora 8kg,1,982.28,2,Globex Corporation,4,ElectroShop Sur,2
+214,2024-11-23,2,Lavadora 8kg,5,1347.79,7,Tyrell Corporation,8,Digital Plaza,4
+215,2024-04-02,1,"Televisor LED 55""",3,168.9,2,Globex Corporation,7,TecnoStore,9
+216,2024-11-14,10,Horno Eléctrico,1,1541.87,7,Tyrell Corporation,2,Tienda Central,1
+217,2024-12-10,7,"Tablet 10""",2,865.85,1,ACME Corp,8,Digital Plaza,1
+218,2024-12-07,5,Aspiradora Sin Bolsa,3,1840.6,1,ACME Corp,5,Tienda Premium,9
+219,2024-07-22,2,Lavadora 8kg,1,1625.03,8,Stark Industries,4,ElectroShop Sur,2
+220,2024-05-26,6,Computadora Portátil,3,1771.13,4,Umbrella Corp,8,Digital Plaza,8
+221,2024-07-20,2,Lavadora 8kg,4,1543.25,5,Weyland-Yutani,4,ElectroShop Sur,6
+222,2024-08-09,5,Aspiradora Sin Bolsa,2,183.81,8,Stark Industries,8,Digital Plaza,7
+223,2024-01-07,5,Aspiradora Sin Bolsa,4,927.82,1,ACME Corp,6,MegaMarket,6
+224,2024-03-30,10,Horno Eléctrico,1,1347.85,2,Globex Corporation,2,Tienda Central,2
+225,2024-07-12,6,Computadora Portátil,4,1995.51,1,ACME Corp,8,Digital Plaza,4
+226,2024-03-30,1,"Televisor LED 55""",3,1339.12,1,ACME Corp,4,ElectroShop Sur,6
+227,2024-01-26,1,"Televisor LED 55""",5,344.68,3,Initech,1,ElectroShop,8
+228,2024-06-30,5,Aspiradora Sin Bolsa,3,1682.22,8,Stark Industries,3,Outlet Norte,5
+229,2024-02-02,3,Refrigerador Doble Puerta,2,272.67,6,Cyberdyne Systems,2,Tienda Central,2
+230,2024-06-12,1,"Televisor LED 55""",3,1232.04,3,Initech,6,MegaMarket,4
+231,2024-01-04,1,"Televisor LED 55""",4,1786.02,1,ACME Corp,6,MegaMarket,3
+232,2024-08-06,5,Aspiradora Sin Bolsa,1,1710.95,6,Cyberdyne Systems,3,Outlet Norte,2
+233,2024-03-25,9,Smartphone,5,155.55,8,Stark Industries,1,ElectroShop,4
+234,2024-01-04,8,Auriculares Bluetooth,1,468.89,5,Weyland-Yutani,6,MegaMarket,6
+235,2024-03-17,3,Refrigerador Doble Puerta,4,1276.35,4,Umbrella Corp,7,TecnoStore,2
+236,2024-09-29,3,Refrigerador Doble Puerta,5,1791.59,7,Tyrell Corporation,1,ElectroShop,7
+237,2024-12-30,8,Auriculares Bluetooth,4,719.64,8,Stark Industries,4,ElectroShop Sur,6
+238,2024-02-20,5,Aspiradora Sin Bolsa,1,753.25,8,Stark Industries,2,Tienda Central,8
+239,2024-05-13,9,Smartphone,3,547.69,7,Tyrell Corporation,6,MegaMarket,5
+240,2024-04-15,9,Smartphone,4,484.01,1,ACME Corp,1,ElectroShop,10
+241,2024-09-14,4,Microondas 20L,3,1606.56,5,Weyland-Yutani,7,TecnoStore,4
+242,2024-10-03,5,Aspiradora Sin Bolsa,3,1152.69,8,Stark Industries,4,ElectroShop Sur,6
+243,2024-04-08,1,"Televisor LED 55""",5,1655.88,3,Initech,7,TecnoStore,4
+244,2024-07-20,5,Aspiradora Sin Bolsa,5,943.64,8,Stark Industries,6,MegaMarket,7
+245,2024-12-22,7,"Tablet 10""",3,758.16,8,Stark Industries,7,TecnoStore,9
+246,2024-04-08,4,Microondas 20L,4,295.63,3,Initech,7,TecnoStore,4
+247,2024-01-20,2,Lavadora 8kg,1,1694.88,5,Weyland-Yutani,7,TecnoStore,3
+248,2024-06-01,3,Refrigerador Doble Puerta,3,832.01,4,Umbrella Corp,1,ElectroShop,7
+249,2024-03-18,2,Lavadora 8kg,1,704.22,1,ACME Corp,8,Digital Plaza,9
+250,2024-06-19,1,"Televisor LED 55""",3,1289.47,6,Cyberdyne Systems,8,Digital Plaza,5
+251,2024-08-13,9,Smartphone,1,1542.25,2,Globex Corporation,5,Tienda Premium,6
+252,2024-11-30,3,Refrigerador Doble Puerta,3,757.78,4,Umbrella Corp,6,MegaMarket,6
+253,2024-05-25,9,Smartphone,1,1608.79,8,Stark Industries,5,Tienda Premium,2
+254,2024-03-17,3,Refrigerador Doble Puerta,1,757.17,8,Stark Industries,1,ElectroShop,7
+255,2024-05-23,10,Horno Eléctrico,4,1046.22,1,ACME Corp,7,TecnoStore,8
+256,2024-10-08,9,Smartphone,5,1504.87,6,Cyberdyne Systems,3,Outlet Norte,6
+257,2024-11-15,5,Aspiradora Sin Bolsa,4,528.73,1,ACME Corp,8,Digital Plaza,1
+258,2024-01-20,8,Auriculares Bluetooth,2,1790.46,8,Stark Industries,3,Outlet Norte,10
+259,2024-07-22,4,Microondas 20L,4,1834.09,4,Umbrella Corp,8,Digital Plaza,1
+260,2024-04-26,4,Microondas 20L,1,1855.91,5,Weyland-Yutani,8,Digital Plaza,8
+261,2024-08-02,5,Aspiradora Sin Bolsa,2,499.94,7,Tyrell Corporation,3,Outlet Norte,2
+262,2024-04-19,3,Refrigerador Doble Puerta,4,555.02,4,Umbrella Corp,1,ElectroShop,6
+263,2024-05-15,5,Aspiradora Sin Bolsa,4,123.34,4,Umbrella Corp,7,TecnoStore,8
+264,2024-03-26,2,Lavadora 8kg,3,659.11,7,Tyrell Corporation,2,Tienda Central,7
+265,2024-09-08,8,Auriculares Bluetooth,4,1303.3,4,Umbrella Corp,1,ElectroShop,2
+266,2024-11-15,10,Horno Eléctrico,4,800.64,6,Cyberdyne Systems,4,ElectroShop Sur,4
+267,2024-10-11,7,"Tablet 10""",3,672.3,4,Umbrella Corp,7,TecnoStore,3
+268,2024-12-16,2,Lavadora 8kg,3,1539.25,3,Initech,1,ElectroShop,1
+269,2024-10-28,9,Smartphone,2,110.46,5,Weyland-Yutani,3,Outlet Norte,7
+270,2024-02-23,2,Lavadora 8kg,3,642.11,3,Initech,4,ElectroShop Sur,3
+271,2024-12-11,3,Refrigerador Doble Puerta,1,405.66,7,Tyrell Corporation,1,ElectroShop,8
+272,2024-09-01,9,Smartphone,4,1636.96,8,Stark Industries,5,Tienda Premium,8
+273,2024-08-25,2,Lavadora 8kg,4,1795.18,1,ACME Corp,2,Tienda Central,6
+274,2024-02-28,3,Refrigerador Doble Puerta,3,1345.37,6,Cyberdyne Systems,2,Tienda Central,4
+275,2024-03-06,9,Smartphone,2,1222.99,1,ACME Corp,8,Digital Plaza,4
+276,2024-11-02,8,Auriculares Bluetooth,4,1827.95,4,Umbrella Corp,3,Outlet Norte,8
+277,2024-11-09,5,Aspiradora Sin Bolsa,5,604.15,4,Umbrella Corp,7,TecnoStore,2
+278,2024-07-25,5,Aspiradora Sin Bolsa,3,1586.7,7,Tyrell Corporation,7,TecnoStore,5
+279,2024-09-19,6,Computadora Portátil,4,1619.22,4,Umbrella Corp,3,Outlet Norte,3
+280,2024-01-21,3,Refrigerador Doble Puerta,4,1022.61,8,Stark Industries,2,Tienda Central,9
+281,2024-12-30,9,Smartphone,4,1335.19,3,Initech,8,Digital Plaza,4
+282,2024-02-18,5,Aspiradora Sin Bolsa,3,914.64,6,Cyberdyne Systems,1,ElectroShop,8
+283,2024-09-23,5,Aspiradora Sin Bolsa,5,1383.19,8,Stark Industries,8,Digital Plaza,4
+284,2024-01-04,3,Refrigerador Doble Puerta,2,238.99,1,ACME Corp,3,Outlet Norte,1
+285,2024-04-28,4,Microondas 20L,1,435.19,1,ACME Corp,7,TecnoStore,6
+286,2024-11-27,9,Smartphone,2,1803.14,1,ACME Corp,3,Outlet Norte,7
+287,2024-08-14,8,Auriculares Bluetooth,3,492.52,3,Initech,6,MegaMarket,7
+288,2024-08-17,3,Refrigerador Doble Puerta,1,1519.33,7,Tyrell Corporation,2,Tienda Central,8
+289,2024-12-26,8,Auriculares Bluetooth,3,166.59,3,Initech,5,Tienda Premium,5
+290,2024-08-27,5,Aspiradora Sin Bolsa,1,1068.75,3,Initech,6,MegaMarket,5
+291,2024-07-17,2,Lavadora 8kg,5,1853.29,5,Weyland-Yutani,1,ElectroShop,8
+292,2024-05-06,6,Computadora Portátil,5,978.14,6,Cyberdyne Systems,6,MegaMarket,5
+293,2024-09-16,3,Refrigerador Doble Puerta,5,1121.13,2,Globex Corporation,1,ElectroShop,9
+294,2024-10-10,5,Aspiradora Sin Bolsa,4,1617.02,7,Tyrell Corporation,4,ElectroShop Sur,1
+295,2024-03-06,4,Microondas 20L,5,862.98,2,Globex Corporation,3,Outlet Norte,7
+296,2024-03-21,10,Horno Eléctrico,3,688.27,7,Tyrell Corporation,8,Digital Plaza,10
+297,2024-08-14,2,Lavadora 8kg,5,656.61,4,Umbrella Corp,3,Outlet Norte,1
+298,2024-06-03,8,Auriculares Bluetooth,4,502.58,7,Tyrell Corporation,7,TecnoStore,3
+299,2024-09-13,4,Microondas 20L,5,1648.95,7,Tyrell Corporation,8,Digital Plaza,7
+300,2024-07-23,2,Lavadora 8kg,2,1971.68,6,Cyberdyne Systems,1,ElectroShop,1
+301,2024-10-02,6,Computadora Portátil,1,1382.48,6,Cyberdyne Systems,1,ElectroShop,8
+302,2024-12-24,3,Refrigerador Doble Puerta,1,1584.57,1,ACME Corp,4,ElectroShop Sur,2
+303,2024-05-13,9,Smartphone,5,1402.12,2,Globex Corporation,1,ElectroShop,7
+304,2024-10-07,5,Aspiradora Sin Bolsa,3,555.52,4,Umbrella Corp,1,ElectroShop,1
+305,2024-05-05,1,"Televisor LED 55""",4,1740.95,6,Cyberdyne Systems,2,Tienda Central,9
+306,2024-08-28,5,Aspiradora Sin Bolsa,1,1311.29,6,Cyberdyne Systems,5,Tienda Premium,8
+307,2024-11-15,6,Computadora Portátil,1,981.69,1,ACME Corp,3,Outlet Norte,3
+308,2024-01-03,5,Aspiradora Sin Bolsa,2,1836.38,2,Globex Corporation,1,ElectroShop,5
+309,2024-11-11,2,Lavadora 8kg,2,1833.69,5,Weyland-Yutani,4,ElectroShop Sur,8
+310,2024-11-30,10,Horno Eléctrico,3,1517.81,6,Cyberdyne Systems,3,Outlet Norte,7
+311,2024-02-05,9,Smartphone,5,1229.94,5,Weyland-Yutani,8,Digital Plaza,9
+312,2024-03-01,5,Aspiradora Sin Bolsa,1,1403.26,5,Weyland-Yutani,7,TecnoStore,7
+313,2024-05-16,9,Smartphone,1,568.06,8,Stark Industries,3,Outlet Norte,3
+314,2024-11-09,5,Aspiradora Sin Bolsa,2,656.71,6,Cyberdyne Systems,2,Tienda Central,8
+315,2024-07-12,8,Auriculares Bluetooth,1,268.79,6,Cyberdyne Systems,4,ElectroShop Sur,10
+316,2024-02-23,10,Horno Eléctrico,3,1023.44,4,Umbrella Corp,3,Outlet Norte,2
+317,2024-11-26,6,Computadora Portátil,3,203.17,3,Initech,2,Tienda Central,4
+318,2024-12-28,6,Computadora Portátil,5,196.12,4,Umbrella Corp,5,Tienda Premium,9
+319,2024-06-14,2,Lavadora 8kg,3,1934.75,2,Globex Corporation,6,MegaMarket,9
+320,2024-03-25,10,Horno Eléctrico,4,1985.68,4,Umbrella Corp,4,ElectroShop Sur,6
+321,2024-05-27,6,Computadora Portátil,3,1826.73,3,Initech,7,TecnoStore,2
+322,2024-08-06,8,Auriculares Bluetooth,3,1223.2,5,Weyland-Yutani,1,ElectroShop,4
+323,2024-09-18,9,Smartphone,2,1889.53,6,Cyberdyne Systems,6,MegaMarket,9
+324,2024-10-29,9,Smartphone,5,1915.39,2,Globex Corporation,1,ElectroShop,8
+325,2024-10-13,8,Auriculares Bluetooth,1,716.55,8,Stark Industries,5,Tienda Premium,4
+326,2024-12-14,2,Lavadora 8kg,4,1351.83,2,Globex Corporation,8,Digital Plaza,4
+327,2024-11-05,10,Horno Eléctrico,1,1902.8,8,Stark Industries,8,Digital Plaza,3
+328,2024-04-19,10,Horno Eléctrico,5,1288.63,8,Stark Industries,3,Outlet Norte,8
+329,2024-07-21,2,Lavadora 8kg,4,1137.62,8,Stark Industries,8,Digital Plaza,2
+330,2024-11-17,3,Refrigerador Doble Puerta,1,1012.35,7,Tyrell Corporation,4,ElectroShop Sur,4
+331,2024-07-13,10,Horno Eléctrico,5,1669.68,5,Weyland-Yutani,8,Digital Plaza,4
+332,2024-09-12,8,Auriculares Bluetooth,4,993.01,7,Tyrell Corporation,7,TecnoStore,3
+333,2024-08-20,3,Refrigerador Doble Puerta,3,1780.85,1,ACME Corp,1,ElectroShop,7
+334,2024-03-17,7,"Tablet 10""",1,1726.15,6,Cyberdyne Systems,6,MegaMarket,3
+335,2024-03-26,5,Aspiradora Sin Bolsa,2,1335.01,1,ACME Corp,7,TecnoStore,4
+336,2024-02-09,5,Aspiradora Sin Bolsa,3,111.8,7,Tyrell Corporation,5,Tienda Premium,7
+337,2024-07-24,10,Horno Eléctrico,3,906.07,3,Initech,7,TecnoStore,10
+338,2024-08-06,4,Microondas 20L,1,317.83,6,Cyberdyne Systems,7,TecnoStore,4
+339,2024-10-24,5,Aspiradora Sin Bolsa,4,1093.61,2,Globex Corporation,2,Tienda Central,1
+340,2024-03-27,4,Microondas 20L,1,1901.17,8,Stark Industries,5,Tienda Premium,5
+341,2024-07-14,6,Computadora Portátil,3,443.12,6,Cyberdyne Systems,1,ElectroShop,6
+342,2024-10-20,5,Aspiradora Sin Bolsa,4,602.04,1,ACME Corp,7,TecnoStore,4
+343,2024-05-10,9,Smartphone,3,601.42,1,ACME Corp,1,ElectroShop,4
+344,2024-01-25,6,Computadora Portátil,2,1011.0,6,Cyberdyne Systems,6,MegaMarket,9
+345,2024-01-03,10,Horno Eléctrico,2,780.67,4,Umbrella Corp,7,TecnoStore,10
+346,2024-05-11,4,Microondas 20L,4,1149.25,4,Umbrella Corp,8,Digital Plaza,10
+347,2024-04-16,6,Computadora Portátil,5,1353.19,1,ACME Corp,2,Tienda Central,7
+348,2024-12-31,5,Aspiradora Sin Bolsa,3,849.59,5,Weyland-Yutani,4,ElectroShop Sur,5
+349,2024-07-09,5,Aspiradora Sin Bolsa,4,1298.61,6,Cyberdyne Systems,7,TecnoStore,4
+350,2024-04-01,10,Horno Eléctrico,5,232.71,4,Umbrella Corp,1,ElectroShop,2
+351,2024-06-16,1,"Televisor LED 55""",4,780.97,8,Stark Industries,8,Digital Plaza,4
+352,2024-07-29,2,Lavadora 8kg,4,1579.43,3,Initech,1,ElectroShop,5
+353,2024-08-17,6,Computadora Portátil,1,1136.52,3,Initech,4,ElectroShop Sur,8
+354,2024-09-05,3,Refrigerador Doble Puerta,5,904.26,5,Weyland-Yutani,6,MegaMarket,3
+355,2024-02-28,8,Auriculares Bluetooth,3,461.0,1,ACME Corp,3,Outlet Norte,2
+356,2024-05-05,10,Horno Eléctrico,5,1524.58,5,Weyland-Yutani,6,MegaMarket,3
+357,2024-09-23,10,Horno Eléctrico,1,644.09,6,Cyberdyne Systems,1,ElectroShop,7
+358,2024-09-30,8,Auriculares Bluetooth,1,403.12,7,Tyrell Corporation,3,Outlet Norte,2
+359,2024-10-11,7,"Tablet 10""",3,258.8,2,Globex Corporation,4,ElectroShop Sur,6
+360,2024-01-17,8,Auriculares Bluetooth,5,1645.84,8,Stark Industries,2,Tienda Central,1
+361,2024-06-19,8,Auriculares Bluetooth,2,356.9,1,ACME Corp,4,ElectroShop Sur,4
+362,2024-02-01,5,Aspiradora Sin Bolsa,5,931.25,8,Stark Industries,7,TecnoStore,8
+363,2024-05-31,10,Horno Eléctrico,1,212.63,3,Initech,4,ElectroShop Sur,1
+364,2024-08-06,8,Auriculares Bluetooth,5,1652.37,7,Tyrell Corporation,6,MegaMarket,1
+365,2024-11-27,3,Refrigerador Doble Puerta,3,865.34,5,Weyland-Yutani,8,Digital Plaza,8
+366,2024-10-23,6,Computadora Portátil,5,570.86,8,Stark Industries,8,Digital Plaza,5
+367,2024-10-17,10,Horno Eléctrico,1,1665.14,3,Initech,1,ElectroShop,9
+368,2024-03-20,2,Lavadora 8kg,1,1317.27,2,Globex Corporation,8,Digital Plaza,4
+369,2024-03-02,2,Lavadora 8kg,5,387.05,3,Initech,3,Outlet Norte,1
+370,2024-12-31,5,Aspiradora Sin Bolsa,4,666.49,3,Initech,1,ElectroShop,2
+371,2024-05-18,9,Smartphone,4,810.68,7,Tyrell Corporation,6,MegaMarket,4
+372,2024-09-17,7,"Tablet 10""",3,1655.91,7,Tyrell Corporation,4,ElectroShop Sur,7
+373,2024-06-29,6,Computadora Portátil,3,579.12,1,ACME Corp,2,Tienda Central,5
+374,2024-08-27,10,Horno Eléctrico,3,681.05,6,Cyberdyne Systems,2,Tienda Central,2
+375,2024-03-20,5,Aspiradora Sin Bolsa,3,661.2,3,Initech,8,Digital Plaza,5
+376,2024-04-08,7,"Tablet 10""",3,628.57,1,ACME Corp,3,Outlet Norte,7
+377,2024-12-11,6,Computadora Portátil,3,1793.0,7,Tyrell Corporation,1,ElectroShop,2
+378,2024-07-15,9,Smartphone,4,753.29,4,Umbrella Corp,7,TecnoStore,8
+379,2024-01-14,2,Lavadora 8kg,4,846.96,3,Initech,2,Tienda Central,4
+380,2024-10-30,6,Computadora Portátil,3,1265.15,3,Initech,5,Tienda Premium,6
+381,2024-03-10,8,Auriculares Bluetooth,3,1656.44,2,Globex Corporation,1,ElectroShop,4
+382,2024-12-17,10,Horno Eléctrico,5,585.07,1,ACME Corp,3,Outlet Norte,6
+383,2024-06-04,3,Refrigerador Doble Puerta,5,1127.21,6,Cyberdyne Systems,5,Tienda Premium,5
+384,2024-08-20,1,"Televisor LED 55""",3,165.4,2,Globex Corporation,4,ElectroShop Sur,4
+385,2024-04-19,5,Aspiradora Sin Bolsa,1,1148.39,2,Globex Corporation,5,Tienda Premium,8
+386,2024-11-04,3,Refrigerador Doble Puerta,5,1397.93,4,Umbrella Corp,4,ElectroShop Sur,10
+387,2024-07-26,3,Refrigerador Doble Puerta,3,1491.62,8,Stark Industries,6,MegaMarket,4
+388,2024-09-22,2,Lavadora 8kg,1,1799.68,1,ACME Corp,3,Outlet Norte,2
+389,2024-05-28,10,Horno Eléctrico,2,1365.17,7,Tyrell Corporation,8,Digital Plaza,9
+390,2024-09-06,10,Horno Eléctrico,1,1181.5,2,Globex Corporation,2,Tienda Central,7
+391,2024-06-25,1,"Televisor LED 55""",5,830.55,4,Umbrella Corp,6,MegaMarket,10
+392,2024-10-15,6,Computadora Portátil,1,522.76,2,Globex Corporation,6,MegaMarket,6
+393,2024-05-14,3,Refrigerador Doble Puerta,1,1893.18,3,Initech,3,Outlet Norte,1
+394,2024-12-13,8,Auriculares Bluetooth,1,1206.89,2,Globex Corporation,1,ElectroShop,1
+395,2024-04-25,3,Refrigerador Doble Puerta,3,1489.81,3,Initech,7,TecnoStore,3
+396,2024-08-29,4,Microondas 20L,2,1575.8,6,Cyberdyne Systems,5,Tienda Premium,5
+397,2024-05-17,5,Aspiradora Sin Bolsa,2,639.06,1,ACME Corp,6,MegaMarket,5
+398,2024-08-31,7,"Tablet 10""",5,1787.67,3,Initech,3,Outlet Norte,9
+399,2024-12-26,4,Microondas 20L,1,859.26,7,Tyrell Corporation,7,TecnoStore,1
+400,2024-11-18,2,Lavadora 8kg,3,1586.98,7,Tyrell Corporation,8,Digital Plaza,10
+401,2024-11-05,4,Microondas 20L,2,924.06,7,Tyrell Corporation,6,MegaMarket,10
+402,2024-05-21,9,Smartphone,4,1853.9,4,Umbrella Corp,1,ElectroShop,6
+403,2024-05-16,9,Smartphone,4,396.96,7,Tyrell Corporation,3,Outlet Norte,10
+404,2024-03-19,4,Microondas 20L,1,256.25,5,Weyland-Yutani,3,Outlet Norte,5
+405,2024-07-28,7,"Tablet 10""",1,1607.33,5,Weyland-Yutani,7,TecnoStore,1
+406,2024-01-04,4,Microondas 20L,5,1117.07,6,Cyberdyne Systems,4,ElectroShop Sur,6
+407,2024-10-08,2,Lavadora 8kg,4,733.18,4,Umbrella Corp,2,Tienda Central,10
+408,2024-08-18,10,Horno Eléctrico,5,733.86,1,ACME Corp,8,Digital Plaza,4
+409,2024-08-25,5,Aspiradora Sin Bolsa,5,868.86,7,Tyrell Corporation,4,ElectroShop Sur,5
+410,2024-07-16,8,Auriculares Bluetooth,2,778.79,8,Stark Industries,3,Outlet Norte,7
+411,2024-04-29,8,Auriculares Bluetooth,1,530.66,7,Tyrell Corporation,7,TecnoStore,8
+412,2024-04-19,7,"Tablet 10""",5,966.6,4,Umbrella Corp,8,Digital Plaza,2
+413,2024-06-25,6,Computadora Portátil,4,606.16,4,Umbrella Corp,6,MegaMarket,2
+414,2024-06-07,2,Lavadora 8kg,3,346.88,5,Weyland-Yutani,1,ElectroShop,9
+415,2024-10-07,7,"Tablet 10""",3,1901.78,7,Tyrell Corporation,1,ElectroShop,7
+416,2024-11-22,1,"Televisor LED 55""",1,1625.47,3,Initech,7,TecnoStore,2
+417,2024-11-26,8,Auriculares Bluetooth,1,116.14,8,Stark Industries,2,Tienda Central,7
+418,2024-06-04,6,Computadora Portátil,3,297.29,4,Umbrella Corp,1,ElectroShop,10
+419,2024-04-01,9,Smartphone,3,1583.28,1,ACME Corp,5,Tienda Premium,8
+420,2024-11-19,2,Lavadora 8kg,1,1200.44,5,Weyland-Yutani,6,MegaMarket,4
+421,2024-10-14,1,"Televisor LED 55""",3,621.8,1,ACME Corp,6,MegaMarket,3
+422,2024-12-31,3,Refrigerador Doble Puerta,3,1740.26,8,Stark Industries,2,Tienda Central,3
+423,2024-11-15,5,Aspiradora Sin Bolsa,2,684.26,5,Weyland-Yutani,4,ElectroShop Sur,7
+424,2024-09-11,6,Computadora Portátil,4,1823.05,7,Tyrell Corporation,2,Tienda Central,9
+425,2024-06-12,2,Lavadora 8kg,1,1132.16,2,Globex Corporation,4,ElectroShop Sur,4
+426,2024-06-18,10,Horno Eléctrico,2,1137.77,7,Tyrell Corporation,8,Digital Plaza,10
+427,2024-04-16,10,Horno Eléctrico,5,1242.88,4,Umbrella Corp,1,ElectroShop,2
+428,2024-01-24,10,Horno Eléctrico,1,1792.93,8,Stark Industries,8,Digital Plaza,4
+429,2024-02-01,3,Refrigerador Doble Puerta,3,860.66,7,Tyrell Corporation,5,Tienda Premium,6
+430,2024-05-26,5,Aspiradora Sin Bolsa,3,798.77,5,Weyland-Yutani,8,Digital Plaza,6
+431,2024-05-16,1,"Televisor LED 55""",3,1930.2,1,ACME Corp,7,TecnoStore,2
+432,2024-10-10,2,Lavadora 8kg,4,1530.74,5,Weyland-Yutani,1,ElectroShop,2
+433,2024-10-02,1,"Televisor LED 55""",1,267.17,6,Cyberdyne Systems,1,ElectroShop,4
+434,2024-10-30,1,"Televisor LED 55""",4,868.55,3,Initech,4,ElectroShop Sur,1
+435,2024-06-18,5,Aspiradora Sin Bolsa,1,1675.25,3,Initech,1,ElectroShop,6
+436,2024-08-28,1,"Televisor LED 55""",2,1373.36,6,Cyberdyne Systems,2,Tienda Central,7
+437,2024-04-10,2,Lavadora 8kg,3,562.41,2,Globex Corporation,5,Tienda Premium,2
+438,2024-08-21,6,Computadora Portátil,5,1575.59,5,Weyland-Yutani,1,ElectroShop,8
+439,2024-08-22,5,Aspiradora Sin Bolsa,5,543.71,2,Globex Corporation,4,ElectroShop Sur,3
+440,2024-09-14,10,Horno Eléctrico,4,131.83,3,Initech,3,Outlet Norte,3
+441,2024-12-31,8,Auriculares Bluetooth,1,407.13,8,Stark Industries,4,ElectroShop Sur,4
+442,2024-04-21,5,Aspiradora Sin Bolsa,3,1895.33,4,Umbrella Corp,8,Digital Plaza,4
+443,2024-07-09,1,"Televisor LED 55""",4,185.78,8,Stark Industries,1,ElectroShop,2
+444,2024-02-16,4,Microondas 20L,5,851.14,5,Weyland-Yutani,6,MegaMarket,1
+445,2024-05-17,7,"Tablet 10""",4,938.48,3,Initech,4,ElectroShop Sur,10
+446,2024-11-15,10,Horno Eléctrico,4,1042.27,5,Weyland-Yutani,5,Tienda Premium,3
+447,2024-01-06,5,Aspiradora Sin Bolsa,5,636.59,7,Tyrell Corporation,7,TecnoStore,6
+448,2024-10-06,5,Aspiradora Sin Bolsa,4,446.57,1,ACME Corp,1,ElectroShop,2
+449,2024-12-31,4,Microondas 20L,1,1422.34,6,Cyberdyne Systems,1,ElectroShop,6
+450,2024-04-06,10,Horno Eléctrico,2,1544.44,3,Initech,3,Outlet Norte,9
+451,2024-07-31,4,Microondas 20L,3,896.2,3,Initech,4,ElectroShop Sur,1
+452,2024-03-08,9,Smartphone,4,1460.98,6,Cyberdyne Systems,1,ElectroShop,5
+453,2024-08-25,1,"Televisor LED 55""",3,769.43,8,Stark Industries,5,Tienda Premium,8
+454,2024-10-27,8,Auriculares Bluetooth,4,789.02,8,Stark Industries,6,MegaMarket,8
+455,2024-08-20,1,"Televisor LED 55""",1,1342.23,3,Initech,1,ElectroShop,1
+456,2024-10-07,4,Microondas 20L,4,385.71,4,Umbrella Corp,7,TecnoStore,7
+457,2024-06-10,10,Horno Eléctrico,5,1519.24,4,Umbrella Corp,2,Tienda Central,9
+458,2024-12-30,10,Horno Eléctrico,2,1339.03,3,Initech,7,TecnoStore,3
+459,2024-09-24,7,"Tablet 10""",4,713.79,8,Stark Industries,6,MegaMarket,1
+460,2024-06-12,1,"Televisor LED 55""",1,1386.6,2,Globex Corporation,4,ElectroShop Sur,2
+461,2024-03-03,4,Microondas 20L,5,1196.72,6,Cyberdyne Systems,6,MegaMarket,1
+462,2024-03-15,8,Auriculares Bluetooth,1,464.92,2,Globex Corporation,4,ElectroShop Sur,2
+463,2024-08-15,6,Computadora Portátil,2,756.07,2,Globex Corporation,1,ElectroShop,8
+464,2024-05-29,9,Smartphone,2,1411.43,2,Globex Corporation,7,TecnoStore,7
+465,2024-01-17,3,Refrigerador Doble Puerta,2,804.51,7,Tyrell Corporation,7,TecnoStore,10
+466,2024-03-26,7,"Tablet 10""",4,1544.53,5,Weyland-Yutani,6,MegaMarket,3
+467,2024-09-14,3,Refrigerador Doble Puerta,2,1754.99,6,Cyberdyne Systems,2,Tienda Central,4
+468,2024-02-21,1,"Televisor LED 55""",4,1513.86,8,Stark Industries,5,Tienda Premium,5
+469,2024-09-21,3,Refrigerador Doble Puerta,5,1366.44,1,ACME Corp,6,MegaMarket,9
+470,2024-05-26,9,Smartphone,2,1187.7,8,Stark Industries,8,Digital Plaza,8
+471,2024-12-04,1,"Televisor LED 55""",4,866.33,8,Stark Industries,7,TecnoStore,7
+472,2024-05-12,4,Microondas 20L,3,379.15,1,ACME Corp,2,Tienda Central,4
+473,2024-04-24,3,Refrigerador Doble Puerta,5,1973.21,2,Globex Corporation,2,Tienda Central,10
+474,2024-03-22,3,Refrigerador Doble Puerta,1,708.5,8,Stark Industries,8,Digital Plaza,7
+475,2024-05-11,6,Computadora Portátil,3,1598.87,4,Umbrella Corp,4,ElectroShop Sur,3
+476,2024-05-23,9,Smartphone,3,1541.6,4,Umbrella Corp,6,MegaMarket,4
+477,2024-07-10,6,Computadora Portátil,5,658.23,4,Umbrella Corp,8,Digital Plaza,4
+478,2024-03-23,1,"Televisor LED 55""",2,1605.98,5,Weyland-Yutani,8,Digital Plaza,4
+479,2024-07-25,1,"Televisor LED 55""",4,889.19,6,Cyberdyne Systems,8,Digital Plaza,6
+480,2024-06-24,3,Refrigerador Doble Puerta,3,1195.45,3,Initech,7,TecnoStore,5
+481,2024-04-28,9,Smartphone,2,426.8,6,Cyberdyne Systems,7,TecnoStore,8
+482,2024-12-20,5,Aspiradora Sin Bolsa,1,315.28,1,ACME Corp,6,MegaMarket,8
+483,2024-05-10,7,"Tablet 10""",4,685.33,6,Cyberdyne Systems,2,Tienda Central,9
+484,2024-03-17,4,Microondas 20L,3,846.09,1,ACME Corp,6,MegaMarket,3
+485,2024-03-14,4,Microondas 20L,3,1989.77,8,Stark Industries,6,MegaMarket,10
+486,2024-11-18,10,Horno Eléctrico,5,1885.96,2,Globex Corporation,6,MegaMarket,2
+487,2024-11-06,3,Refrigerador Doble Puerta,5,1452.03,2,Globex Corporation,3,Outlet Norte,8
+488,2024-08-14,2,Lavadora 8kg,1,1814.68,3,Initech,1,ElectroShop,5
+489,2024-10-24,10,Horno Eléctrico,2,876.66,5,Weyland-Yutani,6,MegaMarket,2
+490,2024-07-29,2,Lavadora 8kg,2,277.35,6,Cyberdyne Systems,1,ElectroShop,6
+491,2024-06-09,5,Aspiradora Sin Bolsa,1,697.35,5,Weyland-Yutani,3,Outlet Norte,9
+492,2024-07-18,2,Lavadora 8kg,1,1466.97,5,Weyland-Yutani,4,ElectroShop Sur,3
+493,2024-07-14,9,Smartphone,5,859.14,8,Stark Industries,4,ElectroShop Sur,1
+494,2024-06-07,9,Smartphone,1,1110.63,4,Umbrella Corp,7,TecnoStore,2
+495,2024-04-11,6,Computadora Portátil,1,167.19,3,Initech,7,TecnoStore,3
+496,2024-10-09,4,Microondas 20L,2,252.89,3,Initech,3,Outlet Norte,9
+497,2024-04-11,8,Auriculares Bluetooth,4,581.63,3,Initech,5,Tienda Premium,3
+498,2024-07-19,5,Aspiradora Sin Bolsa,5,850.8,6,Cyberdyne Systems,8,Digital Plaza,3
+499,2024-03-18,5,Aspiradora Sin Bolsa,4,418.88,1,ACME Corp,6,MegaMarket,1
+500,2024-08-12,7,"Tablet 10""",1,225.41,1,ACME Corp,7,TecnoStore,3
+501,2024-09-24,9,Smartphone,3,773.13,4,Umbrella Corp,1,ElectroShop,5
+502,2024-12-26,6,Computadora Portátil,2,1850.84,6,Cyberdyne Systems,5,Tienda Premium,2
+503,2024-03-12,5,Aspiradora Sin Bolsa,3,1577.77,4,Umbrella Corp,8,Digital Plaza,6
+504,2024-08-25,9,Smartphone,5,1661.05,8,Stark Industries,3,Outlet Norte,4
+505,2024-09-30,3,Refrigerador Doble Puerta,2,1322.36,2,Globex Corporation,1,ElectroShop,3
+506,2024-06-27,4,Microondas 20L,4,389.12,4,Umbrella Corp,8,Digital Plaza,5
+507,2024-12-06,8,Auriculares Bluetooth,5,1740.54,8,Stark Industries,3,Outlet Norte,10
+508,2024-03-09,8,Auriculares Bluetooth,3,1545.86,3,Initech,1,ElectroShop,10
+509,2024-02-14,10,Horno Eléctrico,1,1841.05,2,Globex Corporation,6,MegaMarket,4
+510,2024-01-22,1,"Televisor LED 55""",1,1801.13,2,Globex Corporation,7,TecnoStore,1
+511,2024-08-27,7,"Tablet 10""",4,1362.69,1,ACME Corp,5,Tienda Premium,8
+512,2024-09-12,3,Refrigerador Doble Puerta,1,219.42,6,Cyberdyne Systems,2,Tienda Central,1
+513,2024-05-13,6,Computadora Portátil,5,617.9,1,ACME Corp,4,ElectroShop Sur,6
+514,2024-05-08,5,Aspiradora Sin Bolsa,3,1095.04,5,Weyland-Yutani,4,ElectroShop Sur,2
+515,2024-10-22,9,Smartphone,4,1185.11,1,ACME Corp,1,ElectroShop,6
+516,2024-08-23,6,Computadora Portátil,4,756.31,1,ACME Corp,7,TecnoStore,1
+517,2024-09-07,5,Aspiradora Sin Bolsa,5,1141.33,7,Tyrell Corporation,4,ElectroShop Sur,6
+518,2024-09-11,7,"Tablet 10""",2,1580.86,1,ACME Corp,2,Tienda Central,2
+519,2024-10-08,6,Computadora Portátil,1,179.01,2,Globex Corporation,7,TecnoStore,4
+520,2024-02-21,10,Horno Eléctrico,1,1649.3,3,Initech,6,MegaMarket,7
+521,2024-11-25,4,Microondas 20L,4,851.66,1,ACME Corp,5,Tienda Premium,6
+522,2024-05-12,2,Lavadora 8kg,2,1050.63,7,Tyrell Corporation,5,Tienda Premium,8
+523,2024-04-02,6,Computadora Portátil,4,464.43,7,Tyrell Corporation,1,ElectroShop,1
+524,2024-07-02,7,"Tablet 10""",2,1656.54,4,Umbrella Corp,4,ElectroShop Sur,10
+525,2024-05-16,3,Refrigerador Doble Puerta,1,1370.32,3,Initech,1,ElectroShop,8
+526,2024-08-25,5,Aspiradora Sin Bolsa,5,1021.71,8,Stark Industries,7,TecnoStore,9
+527,2024-09-25,4,Microondas 20L,2,566.92,1,ACME Corp,8,Digital Plaza,6
+528,2024-12-14,4,Microondas 20L,5,1932.65,3,Initech,4,ElectroShop Sur,8
+529,2024-08-09,8,Auriculares Bluetooth,4,1052.82,3,Initech,3,Outlet Norte,3
+530,2024-02-18,3,Refrigerador Doble Puerta,5,1617.61,5,Weyland-Yutani,2,Tienda Central,8
+531,2024-05-18,5,Aspiradora Sin Bolsa,5,1873.98,3,Initech,2,Tienda Central,4
+532,2024-11-18,8,Auriculares Bluetooth,1,406.51,6,Cyberdyne Systems,4,ElectroShop Sur,6
+533,2024-02-14,7,"Tablet 10""",2,1513.41,2,Globex Corporation,7,TecnoStore,3
+534,2024-02-27,7,"Tablet 10""",4,153.14,4,Umbrella Corp,3,Outlet Norte,7
+535,2024-04-04,7,"Tablet 10""",1,277.86,2,Globex Corporation,5,Tienda Premium,6
+536,2024-04-20,4,Microondas 20L,3,755.25,6,Cyberdyne Systems,3,Outlet Norte,8
+537,2024-12-06,3,Refrigerador Doble Puerta,2,402.08,3,Initech,5,Tienda Premium,2
+538,2024-04-04,2,Lavadora 8kg,5,1510.12,7,Tyrell Corporation,2,Tienda Central,1
+539,2024-12-06,5,Aspiradora Sin Bolsa,1,708.04,4,Umbrella Corp,7,TecnoStore,5
+540,2024-12-06,6,Computadora Portátil,4,983.11,3,Initech,8,Digital Plaza,1
+541,2024-01-04,9,Smartphone,3,594.54,2,Globex Corporation,5,Tienda Premium,7
+542,2024-09-21,1,"Televisor LED 55""",2,1429.59,6,Cyberdyne Systems,6,MegaMarket,10
+543,2024-07-28,2,Lavadora 8kg,1,1125.5,3,Initech,4,ElectroShop Sur,8
+544,2024-03-04,1,"Televisor LED 55""",2,918.33,8,Stark Industries,3,Outlet Norte,7
+545,2024-11-21,1,"Televisor LED 55""",2,1370.77,1,ACME Corp,2,Tienda Central,9
+546,2024-07-05,10,Horno Eléctrico,5,411.3,2,Globex Corporation,7,TecnoStore,3
+547,2024-05-17,1,"Televisor LED 55""",4,520.49,5,Weyland-Yutani,1,ElectroShop,5
+548,2024-09-19,9,Smartphone,4,1233.2,4,Umbrella Corp,2,Tienda Central,6
+549,2024-01-23,1,"Televisor LED 55""",3,134.72,3,Initech,6,MegaMarket,1
+550,2024-10-27,3,Refrigerador Doble Puerta,4,692.83,1,ACME Corp,1,ElectroShop,4
+551,2024-10-16,8,Auriculares Bluetooth,4,539.73,6,Cyberdyne Systems,4,ElectroShop Sur,5
+552,2024-09-02,5,Aspiradora Sin Bolsa,3,667.02,6,Cyberdyne Systems,6,MegaMarket,5
+553,2024-03-13,8,Auriculares Bluetooth,4,1561.06,4,Umbrella Corp,4,ElectroShop Sur,9
+554,2024-11-11,1,"Televisor LED 55""",1,526.28,6,Cyberdyne Systems,1,ElectroShop,1
+555,2024-08-25,9,Smartphone,3,605.35,4,Umbrella Corp,4,ElectroShop Sur,9
+556,2024-03-16,7,"Tablet 10""",5,1973.44,5,Weyland-Yutani,3,Outlet Norte,10
+557,2024-10-01,7,"Tablet 10""",2,227.23,7,Tyrell Corporation,8,Digital Plaza,8
+558,2024-01-16,7,"Tablet 10""",2,177.59,8,Stark Industries,6,MegaMarket,9
+559,2024-07-21,5,Aspiradora Sin Bolsa,2,1986.57,4,Umbrella Corp,8,Digital Plaza,9
+560,2024-05-19,7,"Tablet 10""",2,1471.09,6,Cyberdyne Systems,1,ElectroShop,1
+561,2024-01-20,6,Computadora Portátil,5,965.15,7,Tyrell Corporation,4,ElectroShop Sur,8
+562,2024-06-21,8,Auriculares Bluetooth,2,1179.98,4,Umbrella Corp,3,Outlet Norte,6
+563,2024-04-12,10,Horno Eléctrico,5,610.13,3,Initech,4,ElectroShop Sur,9
+564,2024-02-25,6,Computadora Portátil,4,451.9,3,Initech,6,MegaMarket,7
+565,2024-05-01,2,Lavadora 8kg,5,1927.44,7,Tyrell Corporation,6,MegaMarket,8
+566,2024-11-18,10,Horno Eléctrico,3,785.65,2,Globex Corporation,8,Digital Plaza,1
+567,2024-04-26,4,Microondas 20L,5,775.74,6,Cyberdyne Systems,2,Tienda Central,4
+568,2024-11-07,8,Auriculares Bluetooth,3,1569.88,2,Globex Corporation,8,Digital Plaza,10
+569,2024-09-13,1,"Televisor LED 55""",4,1668.97,7,Tyrell Corporation,6,MegaMarket,2
+570,2024-05-28,9,Smartphone,5,580.63,8,Stark Industries,2,Tienda Central,8
+571,2024-04-07,7,"Tablet 10""",4,852.11,7,Tyrell Corporation,3,Outlet Norte,3
+572,2024-10-31,1,"Televisor LED 55""",2,1705.69,8,Stark Industries,1,ElectroShop,2
+573,2024-09-13,4,Microondas 20L,4,1740.18,1,ACME Corp,6,MegaMarket,4
+574,2024-01-23,2,Lavadora 8kg,4,1801.4,1,ACME Corp,6,MegaMarket,7
+575,2024-06-10,3,Refrigerador Doble Puerta,4,197.34,3,Initech,1,ElectroShop,10
+576,2024-10-19,7,"Tablet 10""",4,688.2,4,Umbrella Corp,5,Tienda Premium,2
+577,2024-05-02,8,Auriculares Bluetooth,2,1202.04,8,Stark Industries,3,Outlet Norte,8
+578,2024-07-07,1,"Televisor LED 55""",5,1029.55,8,Stark Industries,7,TecnoStore,2
+579,2024-01-25,4,Microondas 20L,4,234.03,4,Umbrella Corp,3,Outlet Norte,8
+580,2024-05-22,9,Smartphone,5,706.65,2,Globex Corporation,1,ElectroShop,10
+581,2024-03-18,9,Smartphone,2,1352.3,6,Cyberdyne Systems,1,ElectroShop,6
+582,2024-10-27,2,Lavadora 8kg,2,941.79,8,Stark Industries,6,MegaMarket,1
+583,2024-10-24,8,Auriculares Bluetooth,5,958.01,8,Stark Industries,5,Tienda Premium,2
+584,2024-07-11,6,Computadora Portátil,3,1866.7,6,Cyberdyne Systems,7,TecnoStore,10
+585,2024-07-02,9,Smartphone,3,597.68,3,Initech,5,Tienda Premium,7
+586,2024-01-13,2,Lavadora 8kg,3,1379.66,8,Stark Industries,6,MegaMarket,5
+587,2024-12-31,6,Computadora Portátil,3,1151.89,7,Tyrell Corporation,2,Tienda Central,7
+588,2024-09-21,8,Auriculares Bluetooth,4,795.23,2,Globex Corporation,1,ElectroShop,7
+589,2024-05-03,1,"Televisor LED 55""",5,435.6,6,Cyberdyne Systems,7,TecnoStore,7
+590,2024-10-29,7,"Tablet 10""",4,360.81,8,Stark Industries,4,ElectroShop Sur,4
+591,2024-07-16,10,Horno Eléctrico,4,700.77,1,ACME Corp,4,ElectroShop Sur,8
+592,2024-04-18,2,Lavadora 8kg,1,784.51,3,Initech,8,Digital Plaza,1
+593,2024-05-25,3,Refrigerador Doble Puerta,3,908.08,8,Stark Industries,7,TecnoStore,6
+594,2024-05-29,2,Lavadora 8kg,1,1095.73,4,Umbrella Corp,5,Tienda Premium,1
+595,2024-10-07,4,Microondas 20L,1,876.43,5,Weyland-Yutani,6,MegaMarket,8
+596,2024-06-22,8,Auriculares Bluetooth,3,313.05,8,Stark Industries,5,Tienda Premium,10
+597,2024-02-22,8,Auriculares Bluetooth,1,554.71,8,Stark Industries,5,Tienda Premium,9
+598,2024-07-10,9,Smartphone,2,533.45,5,Weyland-Yutani,3,Outlet Norte,6
+599,2024-11-25,1,"Televisor LED 55""",5,288.51,7,Tyrell Corporation,8,Digital Plaza,6
+600,2024-06-30,3,Refrigerador Doble Puerta,2,826.4,3,Initech,8,Digital Plaza,4
+601,2024-09-14,4,Microondas 20L,4,1977.31,2,Globex Corporation,7,TecnoStore,2
+602,2024-02-23,5,Aspiradora Sin Bolsa,2,912.15,3,Initech,3,Outlet Norte,9
+603,2024-11-11,4,Microondas 20L,1,286.25,8,Stark Industries,8,Digital Plaza,10
+604,2024-07-13,5,Aspiradora Sin Bolsa,2,1948.73,1,ACME Corp,3,Outlet Norte,7
+605,2024-08-31,1,"Televisor LED 55""",2,1486.91,4,Umbrella Corp,4,ElectroShop Sur,10
+606,2024-05-05,2,Lavadora 8kg,5,674.07,7,Tyrell Corporation,1,ElectroShop,10
+607,2024-03-02,2,Lavadora 8kg,5,1226.31,2,Globex Corporation,2,Tienda Central,10
+608,2024-06-25,2,Lavadora 8kg,2,1091.98,6,Cyberdyne Systems,7,TecnoStore,2
+609,2024-06-20,3,Refrigerador Doble Puerta,4,1085.69,6,Cyberdyne Systems,6,MegaMarket,9
+610,2024-04-14,4,Microondas 20L,3,619.31,8,Stark Industries,2,Tienda Central,8
+611,2024-11-05,3,Refrigerador Doble Puerta,1,875.94,4,Umbrella Corp,8,Digital Plaza,2
+612,2024-11-13,1,"Televisor LED 55""",2,335.18,7,Tyrell Corporation,8,Digital Plaza,10
+613,2024-10-27,9,Smartphone,5,1469.84,6,Cyberdyne Systems,8,Digital Plaza,7
+614,2024-09-15,10,Horno Eléctrico,3,1089.17,1,ACME Corp,1,ElectroShop,2
+615,2024-07-24,3,Refrigerador Doble Puerta,4,1874.38,8,Stark Industries,4,ElectroShop Sur,6
+616,2024-04-25,7,"Tablet 10""",5,1485.03,5,Weyland-Yutani,4,ElectroShop Sur,2
+617,2024-04-30,2,Lavadora 8kg,3,213.55,3,Initech,6,MegaMarket,8
+618,2024-09-28,9,Smartphone,3,782.55,5,Weyland-Yutani,7,TecnoStore,4
+619,2024-06-27,7,"Tablet 10""",4,131.97,4,Umbrella Corp,7,TecnoStore,2
+620,2024-02-23,5,Aspiradora Sin Bolsa,1,1606.72,1,ACME Corp,6,MegaMarket,9
+621,2024-10-11,1,"Televisor LED 55""",5,366.06,8,Stark Industries,2,Tienda Central,9
+622,2024-11-22,5,Aspiradora Sin Bolsa,4,1741.3,6,Cyberdyne Systems,1,ElectroShop,6
+623,2024-05-27,6,Computadora Portátil,1,1004.72,4,Umbrella Corp,2,Tienda Central,7
+624,2024-03-22,9,Smartphone,5,1202.09,6,Cyberdyne Systems,8,Digital Plaza,1
+625,2024-03-08,10,Horno Eléctrico,1,1748.81,1,ACME Corp,4,ElectroShop Sur,6
+626,2024-09-28,1,"Televisor LED 55""",1,1804.43,8,Stark Industries,2,Tienda Central,3
+627,2024-11-24,1,"Televisor LED 55""",4,958.98,8,Stark Industries,4,ElectroShop Sur,3
+628,2024-12-25,6,Computadora Portátil,1,821.59,7,Tyrell Corporation,8,Digital Plaza,8
+629,2024-02-07,3,Refrigerador Doble Puerta,1,983.33,7,Tyrell Corporation,3,Outlet Norte,6
+630,2024-11-07,3,Refrigerador Doble Puerta,3,1772.12,1,ACME Corp,6,MegaMarket,8
+631,2024-10-05,2,Lavadora 8kg,3,909.7,8,Stark Industries,8,Digital Plaza,8
+632,2024-06-10,6,Computadora Portátil,3,1428.16,2,Globex Corporation,3,Outlet Norte,1
+633,2024-01-30,10,Horno Eléctrico,1,142.22,8,Stark Industries,3,Outlet Norte,6
+634,2024-11-19,9,Smartphone,2,1869.1,4,Umbrella Corp,1,ElectroShop,2
+635,2024-11-16,4,Microondas 20L,1,739.76,7,Tyrell Corporation,8,Digital Plaza,2
+636,2024-12-18,5,Aspiradora Sin Bolsa,3,1060.65,4,Umbrella Corp,1,ElectroShop,9
+637,2024-05-10,10,Horno Eléctrico,2,1429.67,5,Weyland-Yutani,6,MegaMarket,9
+638,2024-12-10,10,Horno Eléctrico,2,1805.08,4,Umbrella Corp,2,Tienda Central,1
+639,2024-03-06,8,Auriculares Bluetooth,5,322.83,6,Cyberdyne Systems,3,Outlet Norte,4
+640,2024-04-23,8,Auriculares Bluetooth,4,1251.07,8,Stark Industries,6,MegaMarket,8
+641,2024-06-04,5,Aspiradora Sin Bolsa,5,1829.52,1,ACME Corp,7,TecnoStore,9
+642,2024-03-12,2,Lavadora 8kg,2,290.0,5,Weyland-Yutani,2,Tienda Central,7
+643,2024-10-07,5,Aspiradora Sin Bolsa,4,388.86,8,Stark Industries,8,Digital Plaza,4
+644,2024-05-22,6,Computadora Portátil,3,1430.66,1,ACME Corp,1,ElectroShop,1
+645,2024-08-24,1,"Televisor LED 55""",3,916.32,5,Weyland-Yutani,2,Tienda Central,10
+646,2024-12-10,8,Auriculares Bluetooth,5,143.29,4,Umbrella Corp,7,TecnoStore,3
+647,2024-07-19,1,"Televisor LED 55""",4,1247.72,5,Weyland-Yutani,4,ElectroShop Sur,1
+648,2024-10-20,3,Refrigerador Doble Puerta,2,1349.99,6,Cyberdyne Systems,6,MegaMarket,8
+649,2024-10-02,10,Horno Eléctrico,4,375.68,3,Initech,5,Tienda Premium,7
+650,2024-07-09,1,"Televisor LED 55""",3,1254.11,3,Initech,5,Tienda Premium,2
+651,2024-04-30,10,Horno Eléctrico,3,1140.69,6,Cyberdyne Systems,2,Tienda Central,3
+652,2024-08-18,10,Horno Eléctrico,2,214.15,3,Initech,2,Tienda Central,2
+653,2024-06-10,2,Lavadora 8kg,3,1006.0,3,Initech,4,ElectroShop Sur,3
+654,2024-05-20,1,"Televisor LED 55""",5,1438.44,8,Stark Industries,3,Outlet Norte,8
+655,2024-05-08,9,Smartphone,1,1829.79,1,ACME Corp,1,ElectroShop,8
+656,2024-03-08,5,Aspiradora Sin Bolsa,5,1306.26,2,Globex Corporation,8,Digital Plaza,8
+657,2024-04-14,7,"Tablet 10""",4,1416.48,6,Cyberdyne Systems,1,ElectroShop,3
+658,2024-04-03,8,Auriculares Bluetooth,5,1479.69,8,Stark Industries,5,Tienda Premium,4
+659,2024-12-28,3,Refrigerador Doble Puerta,1,1230.72,3,Initech,6,MegaMarket,8
+660,2024-10-08,9,Smartphone,4,230.97,4,Umbrella Corp,5,Tienda Premium,6
+661,2024-10-08,9,Smartphone,5,1761.68,5,Weyland-Yutani,5,Tienda Premium,8
+662,2024-05-23,5,Aspiradora Sin Bolsa,2,1790.52,7,Tyrell Corporation,2,Tienda Central,2
+663,2024-12-30,3,Refrigerador Doble Puerta,3,816.37,8,Stark Industries,6,MegaMarket,5
+664,2024-01-07,1,"Televisor LED 55""",2,648.78,6,Cyberdyne Systems,4,ElectroShop Sur,4
+665,2024-11-30,7,"Tablet 10""",4,1846.02,8,Stark Industries,2,Tienda Central,9
+666,2024-10-30,2,Lavadora 8kg,5,1710.89,8,Stark Industries,8,Digital Plaza,8
+667,2024-04-02,10,Horno Eléctrico,1,729.35,2,Globex Corporation,5,Tienda Premium,5
+668,2024-02-11,4,Microondas 20L,2,529.9,3,Initech,2,Tienda Central,8
+669,2024-06-20,4,Microondas 20L,3,1441.64,5,Weyland-Yutani,2,Tienda Central,3
+670,2024-12-03,4,Microondas 20L,2,414.34,2,Globex Corporation,7,TecnoStore,7
+671,2024-09-21,10,Horno Eléctrico,1,1399.16,6,Cyberdyne Systems,4,ElectroShop Sur,10
+672,2024-01-11,9,Smartphone,4,1354.15,1,ACME Corp,8,Digital Plaza,3
+673,2024-10-19,4,Microondas 20L,5,226.39,3,Initech,7,TecnoStore,3
+674,2024-09-14,1,"Televisor LED 55""",2,271.74,1,ACME Corp,3,Outlet Norte,10
+675,2024-11-21,7,"Tablet 10""",5,1201.09,2,Globex Corporation,4,ElectroShop Sur,10
+676,2024-09-13,5,Aspiradora Sin Bolsa,3,648.01,8,Stark Industries,1,ElectroShop,10
+677,2024-09-11,6,Computadora Portátil,1,1358.88,8,Stark Industries,8,Digital Plaza,8
+678,2024-11-22,3,Refrigerador Doble Puerta,3,1636.26,4,Umbrella Corp,1,ElectroShop,10
+679,2024-07-21,9,Smartphone,5,1404.15,4,Umbrella Corp,4,ElectroShop Sur,5
+680,2024-03-29,4,Microondas 20L,4,1134.38,4,Umbrella Corp,3,Outlet Norte,5
+681,2024-01-27,9,Smartphone,4,921.27,4,Umbrella Corp,2,Tienda Central,8
+682,2024-01-26,2,Lavadora 8kg,1,1306.09,1,ACME Corp,1,ElectroShop,1
+683,2024-06-04,6,Computadora Portátil,4,1473.02,1,ACME Corp,6,MegaMarket,5
+684,2024-09-04,4,Microondas 20L,2,274.65,3,Initech,1,ElectroShop,10
+685,2024-01-04,9,Smartphone,4,342.42,4,Umbrella Corp,5,Tienda Premium,1
+686,2024-10-27,5,Aspiradora Sin Bolsa,4,114.91,5,Weyland-Yutani,8,Digital Plaza,5
+687,2024-02-23,6,Computadora Portátil,5,228.75,7,Tyrell Corporation,6,MegaMarket,2
+688,2024-12-07,3,Refrigerador Doble Puerta,5,940.98,5,Weyland-Yutani,8,Digital Plaza,7
+689,2024-09-06,8,Auriculares Bluetooth,3,1903.27,1,ACME Corp,3,Outlet Norte,5
+690,2024-01-04,9,Smartphone,3,299.29,3,Initech,4,ElectroShop Sur,9
+691,2024-11-05,6,Computadora Portátil,2,248.99,1,ACME Corp,5,Tienda Premium,1
+692,2024-10-08,3,Refrigerador Doble Puerta,4,875.69,4,Umbrella Corp,6,MegaMarket,10
+693,2024-06-01,6,Computadora Portátil,4,1761.05,2,Globex Corporation,2,Tienda Central,6
+694,2024-08-14,4,Microondas 20L,4,685.43,7,Tyrell Corporation,3,Outlet Norte,10
+695,2024-11-01,4,Microondas 20L,5,1857.54,5,Weyland-Yutani,7,TecnoStore,9
+696,2024-09-25,9,Smartphone,5,1924.95,2,Globex Corporation,6,MegaMarket,10
+697,2024-01-24,3,Refrigerador Doble Puerta,4,1214.92,6,Cyberdyne Systems,5,Tienda Premium,1
+698,2024-11-19,2,Lavadora 8kg,2,1958.31,5,Weyland-Yutani,3,Outlet Norte,9
+699,2024-04-29,6,Computadora Portátil,4,1713.92,4,Umbrella Corp,4,ElectroShop Sur,8
+700,2024-05-30,7,"Tablet 10""",4,759.45,2,Globex Corporation,5,Tienda Premium,2
+701,2024-05-09,8,Auriculares Bluetooth,2,1685.74,4,Umbrella Corp,3,Outlet Norte,2
+702,2024-05-11,7,"Tablet 10""",3,459.67,2,Globex Corporation,5,Tienda Premium,8
+703,2024-06-08,10,Horno Eléctrico,4,187.51,6,Cyberdyne Systems,4,ElectroShop Sur,1
+704,2024-09-04,2,Lavadora 8kg,1,1850.28,2,Globex Corporation,6,MegaMarket,8
+705,2024-10-12,10,Horno Eléctrico,2,1810.56,5,Weyland-Yutani,6,MegaMarket,3
+706,2024-09-18,5,Aspiradora Sin Bolsa,1,287.27,1,ACME Corp,6,MegaMarket,7
+707,2024-08-31,7,"Tablet 10""",4,1040.89,6,Cyberdyne Systems,7,TecnoStore,6
+708,2024-01-30,1,"Televisor LED 55""",3,682.64,5,Weyland-Yutani,8,Digital Plaza,10
+709,2024-12-06,6,Computadora Portátil,4,610.5,7,Tyrell Corporation,7,TecnoStore,6
+710,2024-12-11,8,Auriculares Bluetooth,4,1963.55,6,Cyberdyne Systems,3,Outlet Norte,5
+711,2024-05-09,6,Computadora Portátil,2,1896.32,4,Umbrella Corp,1,ElectroShop,10
+712,2024-01-21,7,"Tablet 10""",1,1688.25,2,Globex Corporation,5,Tienda Premium,1
+713,2024-03-07,10,Horno Eléctrico,3,1151.57,3,Initech,8,Digital Plaza,3
+714,2024-01-17,1,"Televisor LED 55""",3,1739.62,8,Stark Industries,7,TecnoStore,7
+715,2024-11-17,3,Refrigerador Doble Puerta,1,1794.53,1,ACME Corp,2,Tienda Central,5
+716,2024-05-30,2,Lavadora 8kg,1,1441.83,1,ACME Corp,7,TecnoStore,9
+717,2024-07-06,2,Lavadora 8kg,3,590.57,8,Stark Industries,7,TecnoStore,2
+718,2024-12-05,5,Aspiradora Sin Bolsa,3,1284.73,4,Umbrella Corp,3,Outlet Norte,2
+719,2024-10-07,10,Horno Eléctrico,2,1679.36,2,Globex Corporation,4,ElectroShop Sur,9
+720,2024-03-22,8,Auriculares Bluetooth,2,200.65,4,Umbrella Corp,2,Tienda Central,1
+721,2024-05-07,7,"Tablet 10""",1,1801.95,2,Globex Corporation,5,Tienda Premium,6
+722,2024-04-18,9,Smartphone,2,951.89,3,Initech,7,TecnoStore,3
+723,2024-04-18,1,"Televisor LED 55""",5,610.03,2,Globex Corporation,5,Tienda Premium,10
+724,2024-07-22,4,Microondas 20L,2,1204.99,2,Globex Corporation,1,ElectroShop,4
+725,2024-12-17,8,Auriculares Bluetooth,2,803.81,2,Globex Corporation,4,ElectroShop Sur,3
+726,2024-12-17,6,Computadora Portátil,4,1995.58,1,ACME Corp,1,ElectroShop,10
+727,2024-01-17,1,"Televisor LED 55""",2,898.61,5,Weyland-Yutani,1,ElectroShop,10
+728,2024-01-25,5,Aspiradora Sin Bolsa,3,701.54,4,Umbrella Corp,7,TecnoStore,7
+729,2024-10-14,4,Microondas 20L,5,531.69,8,Stark Industries,7,TecnoStore,10
+730,2024-12-03,5,Aspiradora Sin Bolsa,1,1454.26,5,Weyland-Yutani,4,ElectroShop Sur,10
+731,2024-10-23,4,Microondas 20L,4,1361.44,5,Weyland-Yutani,8,Digital Plaza,7
+732,2024-07-06,4,Microondas 20L,1,953.78,3,Initech,1,ElectroShop,5
+733,2024-11-01,1,"Televisor LED 55""",3,1193.2,1,ACME Corp,1,ElectroShop,4
+734,2024-11-10,9,Smartphone,2,509.83,8,Stark Industries,3,Outlet Norte,6
+735,2024-06-04,7,"Tablet 10""",1,1308.89,2,Globex Corporation,8,Digital Plaza,3
+736,2024-06-10,5,Aspiradora Sin Bolsa,1,1203.25,7,Tyrell Corporation,3,Outlet Norte,2
+737,2024-11-15,6,Computadora Portátil,2,610.32,8,Stark Industries,1,ElectroShop,5
+738,2024-01-11,4,Microondas 20L,3,900.73,8,Stark Industries,8,Digital Plaza,10
+739,2024-08-21,7,"Tablet 10""",5,1308.55,7,Tyrell Corporation,6,MegaMarket,8
+740,2024-10-04,2,Lavadora 8kg,1,1552.1,2,Globex Corporation,4,ElectroShop Sur,9
+741,2024-04-15,5,Aspiradora Sin Bolsa,4,1952.55,5,Weyland-Yutani,2,Tienda Central,5
+742,2024-05-29,2,Lavadora 8kg,2,1641.3,2,Globex Corporation,8,Digital Plaza,9
+743,2024-02-18,5,Aspiradora Sin Bolsa,4,356.34,1,ACME Corp,6,MegaMarket,7
+744,2024-01-20,8,Auriculares Bluetooth,1,774.84,1,ACME Corp,8,Digital Plaza,2
+745,2024-08-25,9,Smartphone,2,802.06,4,Umbrella Corp,7,TecnoStore,8
+746,2024-02-13,7,"Tablet 10""",4,1356.9,6,Cyberdyne Systems,8,Digital Plaza,8
+747,2024-03-28,8,Auriculares Bluetooth,1,1865.91,3,Initech,6,MegaMarket,2
+748,2024-02-24,2,Lavadora 8kg,1,617.8,7,Tyrell Corporation,6,MegaMarket,5
+749,2024-01-03,10,Horno Eléctrico,4,1134.03,4,Umbrella Corp,7,TecnoStore,10
+750,2024-12-12,1,"Televisor LED 55""",5,1236.37,5,Weyland-Yutani,8,Digital Plaza,3
+751,2024-08-31,1,"Televisor LED 55""",4,1259.87,2,Globex Corporation,3,Outlet Norte,1
+752,2024-11-28,9,Smartphone,1,913.55,5,Weyland-Yutani,1,ElectroShop,6
+753,2024-03-02,8,Auriculares Bluetooth,4,754.46,7,Tyrell Corporation,2,Tienda Central,9
+754,2024-07-16,8,Auriculares Bluetooth,2,1015.01,4,Umbrella Corp,6,MegaMarket,4
+755,2024-10-30,9,Smartphone,4,1560.83,5,Weyland-Yutani,2,Tienda Central,6
+756,2024-01-10,1,"Televisor LED 55""",5,230.62,3,Initech,2,Tienda Central,8
+757,2024-04-18,2,Lavadora 8kg,1,333.93,3,Initech,6,MegaMarket,9
+758,2024-06-02,1,"Televisor LED 55""",4,915.17,7,Tyrell Corporation,5,Tienda Premium,9
+759,2024-02-12,4,Microondas 20L,3,594.55,2,Globex Corporation,4,ElectroShop Sur,10
+760,2024-02-03,3,Refrigerador Doble Puerta,3,854.44,3,Initech,7,TecnoStore,5
+761,2024-01-21,6,Computadora Portátil,5,196.64,5,Weyland-Yutani,2,Tienda Central,1
+762,2024-12-29,3,Refrigerador Doble Puerta,1,1320.5,2,Globex Corporation,6,MegaMarket,3
+763,2024-11-10,3,Refrigerador Doble Puerta,4,839.3,6,Cyberdyne Systems,6,MegaMarket,8
+764,2024-05-28,10,Horno Eléctrico,5,883.69,6,Cyberdyne Systems,1,ElectroShop,6
+765,2024-04-13,9,Smartphone,1,306.71,7,Tyrell Corporation,7,TecnoStore,6
+766,2024-08-01,4,Microondas 20L,5,1553.58,1,ACME Corp,6,MegaMarket,10
+767,2024-09-04,9,Smartphone,5,1784.59,7,Tyrell Corporation,6,MegaMarket,7
+768,2024-08-16,1,"Televisor LED 55""",1,190.43,8,Stark Industries,3,Outlet Norte,9
+769,2024-06-15,5,Aspiradora Sin Bolsa,4,175.28,8,Stark Industries,4,ElectroShop Sur,2
+770,2024-06-11,4,Microondas 20L,3,814.19,2,Globex Corporation,1,ElectroShop,2
+771,2024-06-01,10,Horno Eléctrico,3,440.34,7,Tyrell Corporation,4,ElectroShop Sur,8
+772,2024-06-20,1,"Televisor LED 55""",3,1322.03,1,ACME Corp,3,Outlet Norte,1
+773,2024-12-11,1,"Televisor LED 55""",1,884.1,6,Cyberdyne Systems,4,ElectroShop Sur,9
+774,2024-06-18,10,Horno Eléctrico,2,961.59,1,ACME Corp,6,MegaMarket,10
+775,2024-04-25,7,"Tablet 10""",2,709.98,1,ACME Corp,4,ElectroShop Sur,7
+776,2024-01-18,1,"Televisor LED 55""",2,1059.89,8,Stark Industries,6,MegaMarket,1
+777,2024-02-18,3,Refrigerador Doble Puerta,3,972.64,4,Umbrella Corp,1,ElectroShop,3
+778,2024-01-16,5,Aspiradora Sin Bolsa,1,841.43,2,Globex Corporation,1,ElectroShop,2
+779,2024-12-20,1,"Televisor LED 55""",4,1691.71,1,ACME Corp,6,MegaMarket,4
+780,2024-05-31,8,Auriculares Bluetooth,1,1798.33,1,ACME Corp,1,ElectroShop,8
+781,2024-09-18,4,Microondas 20L,4,108.66,2,Globex Corporation,8,Digital Plaza,6
+782,2024-08-02,2,Lavadora 8kg,2,520.24,7,Tyrell Corporation,1,ElectroShop,7
+783,2024-01-12,2,Lavadora 8kg,4,267.87,4,Umbrella Corp,3,Outlet Norte,2
+784,2024-04-01,2,Lavadora 8kg,1,1424.39,1,ACME Corp,5,Tienda Premium,6
+785,2024-03-16,1,"Televisor LED 55""",4,1948.94,3,Initech,2,Tienda Central,3
+786,2024-12-17,4,Microondas 20L,1,810.32,3,Initech,3,Outlet Norte,2
+787,2024-12-26,4,Microondas 20L,3,359.04,8,Stark Industries,7,TecnoStore,8
+788,2024-02-25,5,Aspiradora Sin Bolsa,5,344.91,1,ACME Corp,5,Tienda Premium,1
+789,2024-10-07,6,Computadora Portátil,5,593.7,4,Umbrella Corp,8,Digital Plaza,2
+790,2024-08-03,5,Aspiradora Sin Bolsa,2,745.7,2,Globex Corporation,7,TecnoStore,1
+791,2024-07-04,8,Auriculares Bluetooth,2,366.11,4,Umbrella Corp,6,MegaMarket,4
+792,2024-05-31,4,Microondas 20L,2,161.3,6,Cyberdyne Systems,7,TecnoStore,6
+793,2024-12-29,3,Refrigerador Doble Puerta,4,1063.44,3,Initech,7,TecnoStore,6
+794,2024-11-17,1,"Televisor LED 55""",1,305.32,3,Initech,3,Outlet Norte,5
+795,2024-04-12,1,"Televisor LED 55""",2,1943.4,5,Weyland-Yutani,2,Tienda Central,5
+796,2024-04-09,5,Aspiradora Sin Bolsa,4,1905.76,7,Tyrell Corporation,6,MegaMarket,1
+797,2024-08-06,4,Microondas 20L,1,1260.08,7,Tyrell Corporation,1,ElectroShop,1
+798,2024-03-16,5,Aspiradora Sin Bolsa,5,695.43,7,Tyrell Corporation,1,ElectroShop,1
+799,2024-09-30,8,Auriculares Bluetooth,2,1145.97,4,Umbrella Corp,4,ElectroShop Sur,5
+800,2024-05-11,3,Refrigerador Doble Puerta,3,1723.88,5,Weyland-Yutani,1,ElectroShop,9
+801,2024-04-25,9,Smartphone,2,1023.04,3,Initech,2,Tienda Central,6
+802,2024-02-19,2,Lavadora 8kg,4,1075.5,4,Umbrella Corp,7,TecnoStore,2
+803,2024-10-04,10,Horno Eléctrico,2,1779.3,6,Cyberdyne Systems,7,TecnoStore,1
+804,2024-10-27,4,Microondas 20L,2,917.41,2,Globex Corporation,3,Outlet Norte,6
+805,2024-12-05,4,Microondas 20L,1,861.06,3,Initech,4,ElectroShop Sur,7
+806,2024-01-20,2,Lavadora 8kg,3,1674.6,6,Cyberdyne Systems,5,Tienda Premium,9
+807,2024-09-02,6,Computadora Portátil,2,152.11,5,Weyland-Yutani,6,MegaMarket,7
+808,2024-08-08,5,Aspiradora Sin Bolsa,4,275.17,5,Weyland-Yutani,5,Tienda Premium,7
+809,2024-05-26,8,Auriculares Bluetooth,3,401.59,1,ACME Corp,7,TecnoStore,10
+810,2024-10-30,3,Refrigerador Doble Puerta,1,823.13,8,Stark Industries,2,Tienda Central,5
+811,2024-03-24,8,Auriculares Bluetooth,4,1831.05,5,Weyland-Yutani,6,MegaMarket,1
+812,2024-04-03,4,Microondas 20L,3,1477.76,2,Globex Corporation,6,MegaMarket,10
+813,2024-09-07,3,Refrigerador Doble Puerta,5,534.14,6,Cyberdyne Systems,5,Tienda Premium,9
+814,2024-07-27,6,Computadora Portátil,3,201.34,2,Globex Corporation,8,Digital Plaza,3
+815,2024-06-29,6,Computadora Portátil,4,1130.99,3,Initech,5,Tienda Premium,6
+816,2024-01-23,9,Smartphone,5,333.53,2,Globex Corporation,1,ElectroShop,8
+817,2024-04-08,5,Aspiradora Sin Bolsa,3,869.8,3,Initech,7,TecnoStore,4
+818,2024-07-14,7,"Tablet 10""",4,1842.4,3,Initech,8,Digital Plaza,2
+819,2024-11-15,5,Aspiradora Sin Bolsa,4,1989.7,3,Initech,8,Digital Plaza,10
+820,2024-11-20,5,Aspiradora Sin Bolsa,5,948.56,4,Umbrella Corp,6,MegaMarket,1
+821,2024-01-30,2,Lavadora 8kg,3,1126.47,3,Initech,8,Digital Plaza,5
+822,2024-09-24,10,Horno Eléctrico,1,485.88,7,Tyrell Corporation,3,Outlet Norte,9
+823,2024-06-04,2,Lavadora 8kg,4,794.66,4,Umbrella Corp,4,ElectroShop Sur,3
+824,2024-03-23,6,Computadora Portátil,3,902.31,2,Globex Corporation,4,ElectroShop Sur,1
+825,2024-08-10,7,"Tablet 10""",4,535.86,1,ACME Corp,8,Digital Plaza,6
+826,2024-03-15,5,Aspiradora Sin Bolsa,1,1383.86,6,Cyberdyne Systems,1,ElectroShop,5
+827,2024-09-23,8,Auriculares Bluetooth,2,1468.37,6,Cyberdyne Systems,7,TecnoStore,1
+828,2024-05-26,9,Smartphone,2,1263.97,2,Globex Corporation,2,Tienda Central,5
+829,2024-06-09,2,Lavadora 8kg,4,1287.9,3,Initech,6,MegaMarket,10
+830,2024-08-06,9,Smartphone,4,1281.35,1,ACME Corp,1,ElectroShop,5
+831,2024-08-15,5,Aspiradora Sin Bolsa,4,1492.07,1,ACME Corp,6,MegaMarket,7
+832,2024-12-22,2,Lavadora 8kg,1,1228.38,4,Umbrella Corp,3,Outlet Norte,6
+833,2024-01-13,1,"Televisor LED 55""",3,1957.86,6,Cyberdyne Systems,5,Tienda Premium,1
+834,2024-01-09,4,Microondas 20L,4,812.06,1,ACME Corp,5,Tienda Premium,10
+835,2024-08-31,9,Smartphone,5,1774.0,3,Initech,1,ElectroShop,9
+836,2024-06-20,4,Microondas 20L,3,951.98,1,ACME Corp,1,ElectroShop,8
+837,2024-11-18,3,Refrigerador Doble Puerta,4,900.25,1,ACME Corp,2,Tienda Central,8
+838,2024-05-29,8,Auriculares Bluetooth,3,303.53,8,Stark Industries,2,Tienda Central,1
+839,2024-06-24,3,Refrigerador Doble Puerta,3,934.92,7,Tyrell Corporation,8,Digital Plaza,6
+840,2024-08-12,8,Auriculares Bluetooth,4,1586.29,1,ACME Corp,2,Tienda Central,8
+841,2024-05-12,8,Auriculares Bluetooth,5,1503.06,2,Globex Corporation,5,Tienda Premium,9
+842,2024-02-25,4,Microondas 20L,5,1921.04,3,Initech,8,Digital Plaza,9
+843,2024-03-16,8,Auriculares Bluetooth,5,613.27,2,Globex Corporation,1,ElectroShop,4
+844,2024-02-08,1,"Televisor LED 55""",2,1719.98,5,Weyland-Yutani,8,Digital Plaza,4
+845,2024-08-15,9,Smartphone,4,191.28,7,Tyrell Corporation,8,Digital Plaza,3
+846,2024-12-04,6,Computadora Portátil,2,1497.46,4,Umbrella Corp,3,Outlet Norte,3
+847,2024-01-25,10,Horno Eléctrico,1,1534.96,8,Stark Industries,1,ElectroShop,5
+848,2024-06-28,1,"Televisor LED 55""",1,807.17,4,Umbrella Corp,8,Digital Plaza,2
+849,2024-03-14,1,"Televisor LED 55""",1,1945.17,3,Initech,6,MegaMarket,9
+850,2024-10-24,3,Refrigerador Doble Puerta,2,232.29,4,Umbrella Corp,7,TecnoStore,10
+851,2024-01-25,6,Computadora Portátil,5,1227.11,4,Umbrella Corp,6,MegaMarket,6
+852,2024-10-18,1,"Televisor LED 55""",3,1003.98,3,Initech,3,Outlet Norte,5
+853,2024-05-10,9,Smartphone,2,419.44,4,Umbrella Corp,8,Digital Plaza,10
+854,2024-01-18,1,"Televisor LED 55""",1,420.09,4,Umbrella Corp,8,Digital Plaza,3
+855,2024-05-03,8,Auriculares Bluetooth,3,216.83,2,Globex Corporation,6,MegaMarket,5
+856,2024-11-15,3,Refrigerador Doble Puerta,5,1154.45,4,Umbrella Corp,3,Outlet Norte,1
+857,2024-06-04,1,"Televisor LED 55""",3,1882.17,3,Initech,6,MegaMarket,1
+858,2024-01-06,8,Auriculares Bluetooth,5,504.75,2,Globex Corporation,5,Tienda Premium,3
+859,2024-10-21,6,Computadora Portátil,1,1399.79,2,Globex Corporation,2,Tienda Central,4
+860,2024-03-26,9,Smartphone,4,495.92,2,Globex Corporation,6,MegaMarket,7
+861,2024-11-25,4,Microondas 20L,4,581.3,2,Globex Corporation,2,Tienda Central,8
+862,2024-09-08,4,Microondas 20L,1,1150.66,6,Cyberdyne Systems,6,MegaMarket,6
+863,2024-06-09,2,Lavadora 8kg,2,883.84,6,Cyberdyne Systems,6,MegaMarket,8
+864,2024-12-11,2,Lavadora 8kg,2,1491.19,5,Weyland-Yutani,1,ElectroShop,9
+865,2024-11-12,7,"Tablet 10""",1,115.55,4,Umbrella Corp,4,ElectroShop Sur,9
+866,2024-11-01,8,Auriculares Bluetooth,4,1574.24,5,Weyland-Yutani,7,TecnoStore,3
+867,2024-03-18,6,Computadora Portátil,3,1250.12,2,Globex Corporation,7,TecnoStore,3
+868,2024-12-21,8,Auriculares Bluetooth,3,1667.06,1,ACME Corp,1,ElectroShop,7
+869,2024-05-19,5,Aspiradora Sin Bolsa,3,352.63,3,Initech,8,Digital Plaza,8
+870,2024-08-01,10,Horno Eléctrico,2,642.16,4,Umbrella Corp,6,MegaMarket,7
+871,2024-06-30,1,"Televisor LED 55""",1,1039.89,4,Umbrella Corp,4,ElectroShop Sur,1
+872,2024-09-25,8,Auriculares Bluetooth,1,1726.71,8,Stark Industries,4,ElectroShop Sur,10
+873,2024-10-05,2,Lavadora 8kg,3,977.99,7,Tyrell Corporation,8,Digital Plaza,7
+874,2024-03-22,4,Microondas 20L,1,1203.37,4,Umbrella Corp,3,Outlet Norte,6
+875,2024-03-13,10,Horno Eléctrico,1,1520.58,7,Tyrell Corporation,3,Outlet Norte,6
+876,2024-04-23,3,Refrigerador Doble Puerta,1,756.04,1,ACME Corp,7,TecnoStore,6
+877,2024-04-26,10,Horno Eléctrico,2,1409.09,1,ACME Corp,4,ElectroShop Sur,3
+878,2024-05-23,9,Smartphone,3,705.69,7,Tyrell Corporation,6,MegaMarket,6
+879,2024-03-09,10,Horno Eléctrico,2,229.87,4,Umbrella Corp,4,ElectroShop Sur,5
+880,2024-09-12,9,Smartphone,3,408.04,8,Stark Industries,5,Tienda Premium,10
+881,2024-12-04,4,Microondas 20L,4,1010.36,6,Cyberdyne Systems,4,ElectroShop Sur,9
+882,2024-07-20,8,Auriculares Bluetooth,4,142.4,5,Weyland-Yutani,5,Tienda Premium,10
+883,2024-10-12,7,"Tablet 10""",3,950.58,6,Cyberdyne Systems,5,Tienda Premium,7
+884,2024-09-30,8,Auriculares Bluetooth,4,1914.0,7,Tyrell Corporation,7,TecnoStore,2
+885,2024-10-11,10,Horno Eléctrico,1,334.96,1,ACME Corp,2,Tienda Central,2
+886,2024-05-10,7,"Tablet 10""",2,268.88,4,Umbrella Corp,8,Digital Plaza,4
+887,2024-09-09,6,Computadora Portátil,2,1901.13,3,Initech,4,ElectroShop Sur,7
+888,2024-01-09,1,"Televisor LED 55""",1,1369.28,4,Umbrella Corp,4,ElectroShop Sur,1
+889,2024-02-14,10,Horno Eléctrico,3,1731.9,2,Globex Corporation,7,TecnoStore,6
+890,2024-10-21,4,Microondas 20L,4,732.61,5,Weyland-Yutani,3,Outlet Norte,2
+891,2024-12-08,6,Computadora Portátil,4,706.89,4,Umbrella Corp,5,Tienda Premium,7
+892,2024-06-25,3,Refrigerador Doble Puerta,4,1952.74,5,Weyland-Yutani,2,Tienda Central,3
+893,2024-11-25,3,Refrigerador Doble Puerta,5,1872.62,2,Globex Corporation,8,Digital Plaza,9
+894,2024-11-09,7,"Tablet 10""",5,482.63,4,Umbrella Corp,3,Outlet Norte,6
+895,2024-07-14,1,"Televisor LED 55""",3,458.94,6,Cyberdyne Systems,2,Tienda Central,7
+896,2024-07-16,6,Computadora Portátil,1,122.0,6,Cyberdyne Systems,7,TecnoStore,10
+897,2024-04-16,10,Horno Eléctrico,2,706.33,6,Cyberdyne Systems,2,Tienda Central,4
+898,2024-06-17,3,Refrigerador Doble Puerta,1,1461.32,8,Stark Industries,7,TecnoStore,2
+899,2024-01-20,2,Lavadora 8kg,4,1206.92,6,Cyberdyne Systems,1,ElectroShop,1
+900,2024-02-14,5,Aspiradora Sin Bolsa,1,446.95,7,Tyrell Corporation,6,MegaMarket,7
+901,2024-08-26,5,Aspiradora Sin Bolsa,3,194.09,6,Cyberdyne Systems,4,ElectroShop Sur,7
+902,2024-10-13,2,Lavadora 8kg,5,1265.16,1,ACME Corp,1,ElectroShop,6
+903,2024-10-29,4,Microondas 20L,5,110.65,2,Globex Corporation,5,Tienda Premium,3
+904,2024-11-06,2,Lavadora 8kg,3,1710.17,3,Initech,5,Tienda Premium,3
+905,2024-08-11,7,"Tablet 10""",4,441.2,8,Stark Industries,4,ElectroShop Sur,7
+906,2024-01-02,4,Microondas 20L,3,1847.43,1,ACME Corp,7,TecnoStore,7
+907,2024-03-18,3,Refrigerador Doble Puerta,3,1718.66,6,Cyberdyne Systems,1,ElectroShop,10
+908,2024-01-11,6,Computadora Portátil,2,1928.14,4,Umbrella Corp,7,TecnoStore,3
+909,2024-06-09,2,Lavadora 8kg,4,1219.79,8,Stark Industries,3,Outlet Norte,3
+910,2024-09-03,1,"Televisor LED 55""",4,257.62,3,Initech,3,Outlet Norte,6
+911,2024-04-02,2,Lavadora 8kg,3,656.5,2,Globex Corporation,4,ElectroShop Sur,7
+912,2024-01-04,2,Lavadora 8kg,5,1954.61,3,Initech,6,MegaMarket,2
+913,2024-10-23,3,Refrigerador Doble Puerta,2,1962.12,7,Tyrell Corporation,1,ElectroShop,5
+914,2024-10-27,3,Refrigerador Doble Puerta,5,1075.6,2,Globex Corporation,8,Digital Plaza,7
+915,2024-06-18,8,Auriculares Bluetooth,1,808.82,3,Initech,5,Tienda Premium,7
+916,2024-05-01,1,"Televisor LED 55""",4,1733.68,5,Weyland-Yutani,5,Tienda Premium,4
+917,2024-12-28,3,Refrigerador Doble Puerta,3,702.99,4,Umbrella Corp,3,Outlet Norte,4
+918,2024-03-02,9,Smartphone,3,602.89,8,Stark Industries,1,ElectroShop,7
+919,2024-09-17,9,Smartphone,2,1345.08,3,Initech,8,Digital Plaza,8
+920,2024-11-27,3,Refrigerador Doble Puerta,4,1556.21,8,Stark Industries,6,MegaMarket,7
+921,2024-02-18,5,Aspiradora Sin Bolsa,5,748.4,2,Globex Corporation,2,Tienda Central,7
+922,2024-10-31,2,Lavadora 8kg,3,1387.05,2,Globex Corporation,8,Digital Plaza,3
+923,2024-06-30,4,Microondas 20L,5,337.8,8,Stark Industries,5,Tienda Premium,2
+924,2024-05-06,5,Aspiradora Sin Bolsa,3,1920.37,8,Stark Industries,5,Tienda Premium,4
+925,2024-09-07,8,Auriculares Bluetooth,2,670.06,6,Cyberdyne Systems,1,ElectroShop,1
+926,2024-07-28,8,Auriculares Bluetooth,4,604.42,5,Weyland-Yutani,8,Digital Plaza,5
+927,2024-02-11,7,"Tablet 10""",1,213.25,6,Cyberdyne Systems,8,Digital Plaza,10
+928,2024-12-05,3,Refrigerador Doble Puerta,5,1991.89,4,Umbrella Corp,2,Tienda Central,10
+929,2024-05-05,1,"Televisor LED 55""",1,1584.49,4,Umbrella Corp,7,TecnoStore,3
+930,2024-02-08,7,"Tablet 10""",2,235.71,6,Cyberdyne Systems,2,Tienda Central,10
+931,2024-11-05,5,Aspiradora Sin Bolsa,2,1691.69,4,Umbrella Corp,3,Outlet Norte,6
+932,2024-03-22,3,Refrigerador Doble Puerta,3,944.34,2,Globex Corporation,3,Outlet Norte,6
+933,2024-12-02,7,"Tablet 10""",3,1106.05,4,Umbrella Corp,4,ElectroShop Sur,7
+934,2024-05-04,4,Microondas 20L,1,984.93,5,Weyland-Yutani,3,Outlet Norte,3
+935,2024-07-20,4,Microondas 20L,4,1140.07,8,Stark Industries,5,Tienda Premium,4
+936,2024-03-09,3,Refrigerador Doble Puerta,2,578.62,1,ACME Corp,2,Tienda Central,8
+937,2024-06-03,6,Computadora Portátil,1,1601.73,7,Tyrell Corporation,7,TecnoStore,8
+938,2024-01-23,1,"Televisor LED 55""",3,642.19,6,Cyberdyne Systems,8,Digital Plaza,9
+939,2024-05-07,8,Auriculares Bluetooth,3,415.66,2,Globex Corporation,1,ElectroShop,4
+940,2024-12-17,1,"Televisor LED 55""",5,1024.6,7,Tyrell Corporation,3,Outlet Norte,6
+941,2024-04-18,8,Auriculares Bluetooth,4,1387.54,2,Globex Corporation,4,ElectroShop Sur,9
+942,2024-06-18,7,"Tablet 10""",3,1796.41,8,Stark Industries,8,Digital Plaza,10
+943,2024-07-04,6,Computadora Portátil,2,204.12,3,Initech,1,ElectroShop,3
+944,2024-01-27,1,"Televisor LED 55""",1,1935.52,1,ACME Corp,4,ElectroShop Sur,7
+945,2024-02-07,5,Aspiradora Sin Bolsa,3,1968.54,1,ACME Corp,8,Digital Plaza,1
+946,2024-07-05,10,Horno Eléctrico,1,248.84,7,Tyrell Corporation,6,MegaMarket,9
+947,2024-08-21,7,"Tablet 10""",4,936.5,1,ACME Corp,3,Outlet Norte,10
+948,2024-08-26,9,Smartphone,3,810.57,7,Tyrell Corporation,8,Digital Plaza,7
+949,2024-12-05,5,Aspiradora Sin Bolsa,1,1772.41,8,Stark Industries,7,TecnoStore,9
+950,2024-09-18,7,"Tablet 10""",3,1775.63,1,ACME Corp,7,TecnoStore,8
+951,2024-09-11,10,Horno Eléctrico,1,1786.37,2,Globex Corporation,2,Tienda Central,1
+952,2024-03-30,4,Microondas 20L,3,1723.69,6,Cyberdyne Systems,8,Digital Plaza,9
+953,2024-07-20,3,Refrigerador Doble Puerta,1,612.8,3,Initech,7,TecnoStore,2
+954,2024-01-15,3,Refrigerador Doble Puerta,1,1049.26,2,Globex Corporation,3,Outlet Norte,7
+955,2024-01-01,1,"Televisor LED 55""",5,658.71,8,Stark Industries,4,ElectroShop Sur,9
+956,2024-04-01,6,Computadora Portátil,3,1294.46,3,Initech,2,Tienda Central,1
+957,2024-01-11,9,Smartphone,2,1607.87,6,Cyberdyne Systems,2,Tienda Central,9
+958,2024-04-02,4,Microondas 20L,3,1036.22,5,Weyland-Yutani,6,MegaMarket,1
+959,2024-10-24,4,Microondas 20L,5,780.26,1,ACME Corp,8,Digital Plaza,6
+960,2024-09-14,4,Microondas 20L,4,1028.05,3,Initech,2,Tienda Central,10
+961,2024-04-04,7,"Tablet 10""",3,378.38,6,Cyberdyne Systems,5,Tienda Premium,9
+962,2024-04-14,9,Smartphone,3,888.27,8,Stark Industries,2,Tienda Central,3
+963,2024-12-07,6,Computadora Portátil,1,770.19,2,Globex Corporation,2,Tienda Central,7
+964,2024-12-16,6,Computadora Portátil,2,1699.4,8,Stark Industries,4,ElectroShop Sur,10
+965,2024-02-02,3,Refrigerador Doble Puerta,2,362.21,7,Tyrell Corporation,4,ElectroShop Sur,10
+966,2024-07-30,7,"Tablet 10""",3,236.66,7,Tyrell Corporation,2,Tienda Central,8
+967,2024-06-30,1,"Televisor LED 55""",2,317.37,8,Stark Industries,5,Tienda Premium,8
+968,2024-12-24,8,Auriculares Bluetooth,5,701.72,2,Globex Corporation,5,Tienda Premium,9
+969,2024-06-01,5,Aspiradora Sin Bolsa,4,1146.85,3,Initech,5,Tienda Premium,5
+970,2024-09-15,3,Refrigerador Doble Puerta,3,333.95,1,ACME Corp,6,MegaMarket,9
+971,2024-07-12,8,Auriculares Bluetooth,4,1484.47,2,Globex Corporation,1,ElectroShop,7
+972,2024-08-10,1,"Televisor LED 55""",1,708.87,3,Initech,7,TecnoStore,5
+973,2024-08-30,2,Lavadora 8kg,3,1632.77,5,Weyland-Yutani,5,Tienda Premium,7
+974,2024-09-27,6,Computadora Portátil,1,714.86,4,Umbrella Corp,2,Tienda Central,7
+975,2024-01-17,8,Auriculares Bluetooth,5,724.29,2,Globex Corporation,8,Digital Plaza,8
+976,2024-07-16,8,Auriculares Bluetooth,1,1138.14,6,Cyberdyne Systems,7,TecnoStore,9
+977,2024-06-13,4,Microondas 20L,2,1271.01,7,Tyrell Corporation,1,ElectroShop,1
+978,2024-07-30,9,Smartphone,1,1424.58,1,ACME Corp,3,Outlet Norte,2
+979,2024-09-02,3,Refrigerador Doble Puerta,4,1802.02,2,Globex Corporation,1,ElectroShop,3
+980,2024-04-04,5,Aspiradora Sin Bolsa,1,1785.57,7,Tyrell Corporation,7,TecnoStore,6
+981,2024-05-03,9,Smartphone,1,236.97,2,Globex Corporation,1,ElectroShop,9
+982,2024-08-03,5,Aspiradora Sin Bolsa,3,1495.62,2,Globex Corporation,6,MegaMarket,7
+983,2024-03-03,10,Horno Eléctrico,5,962.63,6,Cyberdyne Systems,2,Tienda Central,10
+984,2024-03-25,4,Microondas 20L,3,1160.48,7,Tyrell Corporation,3,Outlet Norte,1
+985,2024-05-04,6,Computadora Portátil,3,886.54,2,Globex Corporation,7,TecnoStore,3
+986,2024-06-25,5,Aspiradora Sin Bolsa,4,1976.71,4,Umbrella Corp,5,Tienda Premium,3
+987,2024-07-10,3,Refrigerador Doble Puerta,2,1413.28,4,Umbrella Corp,6,MegaMarket,10
+988,2024-08-24,5,Aspiradora Sin Bolsa,1,1123.32,5,Weyland-Yutani,7,TecnoStore,6
+989,2024-10-01,7,"Tablet 10""",5,1841.07,3,Initech,5,Tienda Premium,8
+990,2024-07-26,1,"Televisor LED 55""",3,671.32,1,ACME Corp,3,Outlet Norte,7
+991,2024-01-07,8,Auriculares Bluetooth,3,635.27,4,Umbrella Corp,6,MegaMarket,2
+992,2024-04-23,8,Auriculares Bluetooth,5,1939.84,2,Globex Corporation,8,Digital Plaza,9
+993,2024-01-24,8,Auriculares Bluetooth,4,1927.95,8,Stark Industries,6,MegaMarket,6
+994,2024-01-24,6,Computadora Portátil,2,714.39,8,Stark Industries,2,Tienda Central,6
+995,2024-01-31,4,Microondas 20L,1,1496.05,6,Cyberdyne Systems,7,TecnoStore,1
+996,2024-11-05,9,Smartphone,4,1698.73,6,Cyberdyne Systems,4,ElectroShop Sur,1
+997,2024-11-19,10,Horno Eléctrico,3,178.13,8,Stark Industries,3,Outlet Norte,6
+998,2024-01-09,6,Computadora Portátil,2,1694.34,3,Initech,7,TecnoStore,3
+999,2024-03-12,3,Refrigerador Doble Puerta,2,722.18,7,Tyrell Corporation,8,Digital Plaza,4
+1000,2024-12-23,7,"Tablet 10""",5,1567.91,5,Weyland-Yutani,2,Tienda Central,10
